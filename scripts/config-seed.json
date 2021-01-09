@@ -3,7 +3,7 @@
   "timestamp": 1610107454880,
   "config": [
     {
-      "key": "start",
+      "key": "__dashboard",
       "title": "Dashboard",
       "url": "/dashboard",
       "icon": "fe fe-home"

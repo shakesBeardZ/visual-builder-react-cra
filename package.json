@@ -12,7 +12,8 @@
     "stylelint": "stylelint \"src/**/*.{scss,less}\"",
     "deploy": "cd .cloudflare/ && wrangler publish",
     "build-demo": "REACT_APP_AUTHENTICATED=true react-app-rewired build",
-    "build-deploy": "yarn build-demo && yarn deploy"
+    "build-deploy": "yarn build-demo && yarn deploy",
+    "vb": "node ./scripts/vb.js"
   },
   "husky": {
     "hooks": {
@@ -38,10 +39,12 @@
     "axios-mock-adapter": "^1.19.0",
     "bootstrap": "^4.5.3",
     "c3": "^0.4.24",
+    "chalk": "^4.1.0",
     "chart.js": "^2.9.3",
     "chartist": "^0.11.4",
     "chartist-plugin-tooltips-updated": "^0.1.2",
     "classnames": "^2.2.6",
+    "cli-select": "^1.1.2",
     "connected-react-router": "^6.8.0",
     "d3-dsv": "^1.2.0",
     "d3-format": "^1.4.4",

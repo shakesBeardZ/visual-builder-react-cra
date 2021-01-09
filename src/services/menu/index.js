@@ -1,23 +1,12 @@
 export default async function getMenuData() {
   return [
-    // EXAMPLE MENU CONFIG
-    // {
-    //   category: true,
-    //   title: 'Dashboards',
-    // },
-    // {
-    //   title: 'Dashboards',
-    //   key: 'dashboards',
-    //   icon: 'fe fe-home',
-    //   roles: ['admin'], // set user roles with access to this route
-    //   count: 4,
-    //   children: [
-    //     {
-    //       title: 'Dashboard Alpha',
-    //       key: 'dashboard',
-    //       url: '/dashboard/alpha',
-    //     },
-    //   ],
-    // },
+    // VB:REPLACE-START:MENU-CONFIG
+    {
+      title: 'Temporary Page',
+      key: 'dashboard',
+      icon: 'fe fe-home',
+      url: '/dashboard',
+    },
+    // VB:REPLACE-END:MENU-CONFIG
   ]
 }
