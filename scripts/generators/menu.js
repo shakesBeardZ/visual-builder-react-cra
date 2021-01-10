@@ -35,6 +35,6 @@ module.exports = (config) => {
     menuFile,
     `VB:REPLACE-START:MENU-CONFIG`,
     `VB:REPLACE-END:MENU-CONFIG`,
-    code,
+    code
   )
 }

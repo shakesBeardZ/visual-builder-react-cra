@@ -30,15 +30,20 @@ const widgetTpl = (widget) => `
 
 module.exports = (config, content) => {
   // wipe directory folders, excluding 'auth' folder
-  const foldersToRemove = GET_DIR_FOLDERS(pagesFolder).filter((item) => { return item !== 'auth' })
+  const foldersToRemove = GET_DIR_FOLDERS(pagesFolder)
+    .filter((item) => {
+      return item !== 'auth'
+    })
   DELETE_FOLDERS(pagesFolder, foldersToRemove)
 
   // generate pages
   const generatePages = (config, level = 1) => {
     let prefixSpaces = ''
-    Array(level).fill().forEach(() => prefixSpaces = prefixSpaces + '   ')
+    Array(level)
+      .fill()
+      .forEach(() => (prefixSpaces = prefixSpaces + '   '))
 
-    config.forEach(page => {
+    config.forEach((page) => {
       const { key, category, title, url: path } = page
       const pageContent = content[key]
       if (category) {
@@ -50,16 +55,20 @@ module.exports = (config, content) => {
       }
 
       const generateContent = (content) => {
-        if (!content) { return `<div />` }
+        if (!content) {
+          return `<div />`
+        }
         return `
           <div>
-            ${content.map(row => rowTpl(row))}
+            ${content.map((row) => rowTpl(row))}
           </div>
         `
       }
 
       const imports = generateImports(pageContent)
-      const formattedTitle = title.replace(/\b\w/g, l => l.toUpperCase()).replace(/[^a-zA-Z]/g, "")
+      const formattedTitle = title
+        .replace(/\b\w/g, (l) => l.toUpperCase())
+        .replace(/[^a-zA-Z]/g, '')
       const generatedPageContent = generateContent(pageContent)
       const generatedPage = pageTpl(imports, formattedTitle, generatedPageContent)
 
@@ -72,5 +81,4 @@ module.exports = (config, content) => {
     })
   }
   generatePages(config)
-
 }

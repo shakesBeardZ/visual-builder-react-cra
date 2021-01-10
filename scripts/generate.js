@@ -2,7 +2,12 @@ const path = require('path')
 const fs = require('fs')
 
 const logg = require('./utils/logg')
-const { GENERATE_ROUTES, GENERATE_MENU, GENERATE_SETTINGS, GENERATE_PAGES } = require('./generators')
+const {
+  GENERATE_ROUTES,
+  GENERATE_MENU,
+  GENERATE_SETTINGS,
+  GENERATE_PAGES,
+} = require('./generators')
 
 const generateRoutes = (config) => {
   logg('Processing routes config...', 'clean', ' ├─ ')
@@ -57,7 +62,10 @@ const generate = (filepath) => {
     generatePages(config, content)
   } catch (err) {
     console.log(err)
-    logg('Something goes wrong. Try to change config file or checkout latest version from git.', 'red')
+    logg(
+      'Something goes wrong. Try to change config file or checkout latest version from git.',
+      'red',
+    )
   }
 }
 

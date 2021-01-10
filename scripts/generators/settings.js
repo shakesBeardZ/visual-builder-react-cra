@@ -15,9 +15,9 @@ module.exports = (settings) => {
     ...settings,
   }
   let code = ``
-  Object.keys(settingsUpdated).forEach(key => {
+  Object.keys(settingsUpdated).forEach((key) => {
     const v = settingsUpdated[key]
-    code = code + `${key}: ${(typeof v === "boolean") ? v : `'${v}'`},\n`
+    code = code + `${key}: ${typeof v === 'boolean' ? v : `'${v}'`},\n`
   })
 
   // replace settings
@@ -25,6 +25,6 @@ module.exports = (settings) => {
     settingsFile,
     `VB:REPLACE-START:SETTINGS`,
     `VB:REPLACE-END:SETTINGS`,
-    code,
+    code
   )
 }

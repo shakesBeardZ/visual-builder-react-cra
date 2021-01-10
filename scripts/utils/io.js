@@ -87,13 +87,14 @@ exports.GET_BETWEEN_JSON = (filepath, after, before) => {
 }
 
 exports.GET_DIR_FOLDERS = (folderpath) => {
-  return fs.readdirSync(folderpath, { withFileTypes: true })
-    .filter(dirent => dirent.isDirectory())
-    .map(dirent => dirent.name)
+  return fs
+    .readdirSync(folderpath, { withFileTypes: true })
+    .filter((dirent) => dirent.isDirectory())
+    .map((dirent) => dirent.name)
 }
 
 exports.DELETE_FOLDERS = (folderpath, folders) => {
-  folders.forEach(folder => {
+  folders.forEach((folder) => {
     const resolvedFolderPath = getResolvedPath(`${folderpath}/${folder}`)
     fs.rmdirSync(resolvedFolderPath, { recursive: true })
   })

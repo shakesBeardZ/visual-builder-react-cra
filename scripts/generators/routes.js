@@ -1,5 +1,3 @@
-
-
 const { REPLACE_NEXT_LINE, REPLACE_BETWEEN } = require('../utils/io')
 
 const routerFile = '__temp/router.js'
@@ -45,5 +43,4 @@ module.exports = (config) => {
     `VB:REPLACE-END:ROUTER-CONFIG`,
     code,
   )
-
 }
