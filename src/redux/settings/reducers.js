@@ -12,6 +12,7 @@ const STORED_SETTINGS = (storedSettings) => {
 
 const initialState = {
   ...STORED_SETTINGS({
+    // Read docs for available values: https://docs.visualbuilder.cloud
     // VB:REPLACE-START:SETTINGS
     authProvider: 'jwt', // firebase, jwt
     logo: 'Visual Builder',

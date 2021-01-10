@@ -2,7 +2,7 @@ export default async function getMenuData() {
   return [
     // VB:REPLACE-START:MENU-CONFIG
     {
-      title: 'Temporary Page',
+      title: 'Dashboard',
       key: 'dashboard',
       icon: 'fe fe-home',
       url: '/dashboard',
