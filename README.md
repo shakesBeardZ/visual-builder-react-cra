@@ -1,5 +1,6 @@
 ### Visual Builder React (create-react-app) ###
-https://react.visualbuilder.cloud
+* https://react.visualbuilder.cloud/
+* https://create-react-app.dev/
 
 ### Documentation ###
 Please read documentation here https://docs.visualbuilder.cloud
@@ -11,7 +12,7 @@ Please read documentation here https://docs.visualbuilder.cloud
 * Run the app `yarn start`
 * Or build production app `yarn build`
 
-### Full Preview Pages ###
+### Full Preview Pages / Import Config ###
 * Run vb-cli by `yarn vb`
 * Select full preview version, this will generate all pages from demo preview
 
