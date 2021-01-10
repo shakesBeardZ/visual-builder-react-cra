@@ -1,7 +1,7 @@
 const { GET_DIR_FOLDERS, DELETE_FOLDERS, WRITE_FILE } = require('../utils/io')
 const logg = require('../utils/logg')
 
-const pagesFolder = 'temp/pages'
+const pagesFolder = '__temp/pages'
 
 const pageTpl = (imports, title, pageContent) => `
 import React from 'react'

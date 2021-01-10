@@ -1,6 +1,6 @@
 const { REPLACE_BETWEEN } = require('../utils/io')
 
-const menuFile = 'temp/menu.js'
+const menuFile = '__temp/menu.js'
 
 const itemTpl = (item, convert) => `{
   title: '${item.title}',

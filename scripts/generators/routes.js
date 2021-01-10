@@ -2,7 +2,7 @@
 
 const { REPLACE_NEXT_LINE, REPLACE_BETWEEN } = require('../utils/io')
 
-const routerFile = 'temp/router.js'
+const routerFile = '__temp/router.js'
 
 const routeTpl = (route) => `{
   path: '${route.url}',
