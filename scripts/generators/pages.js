@@ -16,6 +16,18 @@ const ${title} = () => {
 export default ${title}
 `
 
+const rowTpl = (row) => `
+
+`
+
+const cardTpl = (card) => `
+
+`
+
+const widgetTpl = (widget) => `
+
+`
+
 module.exports = (config, content) => {
   // wipe directory folders, excluding 'auth' folder
   const foldersToRemove = GET_DIR_FOLDERS(pagesFolder).filter((item) => { return item !== 'auth' })
@@ -27,15 +39,31 @@ module.exports = (config, content) => {
     Array(level).fill().forEach(() => prefixSpaces = prefixSpaces + '   ')
 
     config.forEach(page => {
-      if (page.category) {
+      const { key, category, title, url: path } = page
+      const pageContent = content[key]
+      if (category) {
         return
       }
-      const { title, url: path } = page
-      const formattedTitle = title.replace(/\b\w/g, l => l.toUpperCase()).replace(/[^a-zA-Z]/g, "")
-      const imports = `import { connect } from 'react-redux'`
-      const pageContent = `<div>Empty Page</div>`
 
-      WRITE_FILE(pagesFolder, path, 'index.js', pageTpl(imports, formattedTitle, pageContent))
+      const generateImports = (content) => {
+        return `import { connect } from 'react-redux'`
+      }
+
+      const generateContent = (content) => {
+        if (!content) { return `<div />` }
+        return `
+          <div>
+            ${content.map(row => rowTpl(row))}
+          </div>
+        `
+      }
+
+      const imports = generateImports(pageContent)
+      const formattedTitle = title.replace(/\b\w/g, l => l.toUpperCase()).replace(/[^a-zA-Z]/g, "")
+      const generatedPageContent = generateContent(pageContent)
+      const generatedPage = pageTpl(imports, formattedTitle, generatedPageContent)
+
+      WRITE_FILE(pagesFolder, path, 'index.js', generatedPage)
       logg(`${path}/index.js`, 'clean', `${prefixSpaces} └─ `)
 
       if (page.children) {
