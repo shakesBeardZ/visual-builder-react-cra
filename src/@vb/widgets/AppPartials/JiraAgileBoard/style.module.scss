@@ -1,12 +1,8 @@
 @import 'mixins.scss';
 
-.column {
-  border-radius: 8px;
-}
-
 .card {
   background-color: $white;
-  border-radius: 8px;
+  border-radius: 5px;
   box-shadow: 0 3px 5px rgba(22, 22, 53, 0.16);
   margin-bottom: rem(15);
   padding: rem(5);

@@ -13,6 +13,7 @@ const routes = [
     Component: lazy(() => import('pages/dashboard')),
     exact: true,
   },
+
   // VB:REPLACE-END:ROUTER-CONFIG
   {
     path: '/auth/login',

@@ -438,7 +438,7 @@
                 "widgets": [
                   {
                     "key": "58zp5r",
-                    "name": "Heading",
+                    "name": "Headers-Heading",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -464,8 +464,7 @@
                 "widgets": [
                   {
                     "key": "uw8op",
-                    "type": "WIDGET",
-                    "name": "Chart11",
+                    "name": "WidgetsCharts-11",
                     "wrapper": false
                   }
                 ]
@@ -481,8 +480,7 @@
                 "widgets": [
                   {
                     "key": "r4heu",
-                    "type": "WIDGET",
-                    "name": "Chart11v1",
+                    "name": "WidgetsCharts-11v1",
                     "wrapper": false
                   }
                 ]
@@ -498,8 +496,7 @@
                 "widgets": [
                   {
                     "key": "5otr7l",
-                    "type": "WIDGET",
-                    "name": "Chart11v2",
+                    "name": "WidgetsCharts-11v2",
                     "wrapper": false
                   }
                 ]
@@ -521,7 +518,7 @@
                 "widgets": [
                   {
                     "key": "ylswft",
-                    "name": "Heading",
+                    "name": "Headers-Heading",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -547,8 +544,7 @@
                 "widgets": [
                   {
                     "key": "sld77",
-                    "type": "WIDGET",
-                    "name": "Chart4"
+                    "name": "WidgetsCharts-4"
                   }
                 ]
               }
@@ -563,8 +559,7 @@
                 "widgets": [
                   {
                     "key": "xx6nss",
-                    "type": "WIDGET",
-                    "name": "Chart4v1"
+                    "name": "WidgetsCharts-4v1"
                   }
                 ]
               }
@@ -579,8 +574,7 @@
                 "widgets": [
                   {
                     "key": "cpzbf2",
-                    "type": "WIDGET",
-                    "name": "Chart4v2"
+                    "name": "WidgetsCharts-4v2"
                   }
                 ]
               }
@@ -600,7 +594,7 @@
                 "widgets": [
                   {
                     "key": "rr5d1l",
-                    "name": "Heading2",
+                    "name": "Headers-Heading2",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -611,8 +605,7 @@
                   },
                   {
                     "key": "pnonb8",
-                    "type": "WIDGET",
-                    "name": "TablesAntd3"
+                    "name": "TablesAntd-3"
                   }
                 ]
               }
@@ -633,7 +626,7 @@
                 "widgets": [
                   {
                     "key": "yr3kj8",
-                    "name": "Heading3",
+                    "name": "Headers-Heading3",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -661,8 +654,7 @@
                 "widgets": [
                   {
                     "key": "qvdd3",
-                    "type": "WIDGET",
-                    "name": "General17"
+                    "name": "WidgetsGeneral-17"
                   }
                 ]
               }
@@ -677,8 +669,7 @@
                 "widgets": [
                   {
                     "key": "aq6k",
-                    "type": "WIDGET",
-                    "name": "General17v1"
+                    "name": "WidgetsGeneral-17v1"
                   }
                 ]
               }
@@ -693,8 +684,7 @@
                 "widgets": [
                   {
                     "key": "zcczfm",
-                    "type": "WIDGET",
-                    "name": "General17v2"
+                    "name": "WidgetsGeneral-17v2"
                   }
                 ]
               }
@@ -715,7 +705,7 @@
                 "widgets": [
                   {
                     "key": "2giv3e",
-                    "name": "Heading3",
+                    "name": "Headers-Heading3",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -743,8 +733,7 @@
                 "widgets": [
                   {
                     "key": "wu1sxv",
-                    "type": "WIDGET",
-                    "name": "General5"
+                    "name": "WidgetsGeneral-5"
                   }
                 ]
               }
@@ -759,8 +748,7 @@
                 "widgets": [
                   {
                     "key": "ak0d6fv",
-                    "type": "WIDGET",
-                    "name": "General5"
+                    "name": "WidgetsGeneral-5"
                   }
                 ]
               }
@@ -781,7 +769,7 @@
                 "widgets": [
                   {
                     "key": "j8khc8",
-                    "name": "Heading3",
+                    "name": "Headers-Heading3",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -809,8 +797,7 @@
                 "widgets": [
                   {
                     "key": "7fll5d",
-                    "type": "WIDGET",
-                    "name": "General6v1",
+                    "name": "WidgetsGeneral-6v1",
                     "wrapper": false
                   }
                 ]
@@ -820,8 +807,7 @@
                 "widgets": [
                   {
                     "key": "tdvvgs",
-                    "type": "WIDGET",
-                    "name": "General6",
+                    "name": "WidgetsGeneral-6",
                     "wrapper": false
                   }
                 ]
@@ -831,8 +817,7 @@
                 "widgets": [
                   {
                     "key": "s09efrl",
-                    "type": "WIDGET",
-                    "name": "General6v1",
+                    "name": "WidgetsGeneral-6v1",
                     "wrapper": false
                   }
                 ]
@@ -855,7 +840,7 @@
                 "widgets": [
                   {
                     "key": "xsqyq",
-                    "name": "Heading2",
+                    "name": "Headers-Heading2",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -866,8 +851,7 @@
                   },
                   {
                     "key": "j7iufw",
-                    "type": "WIDGET",
-                    "name": "General19"
+                    "name": "WidgetsGeneral-19"
                   }
                 ]
               },
@@ -876,7 +860,7 @@
                 "widgets": [
                   {
                     "key": "0t8ivf",
-                    "name": "Heading2",
+                    "name": "Headers-Heading2",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -887,20 +871,17 @@
                   },
                   {
                     "key": "ofjdn",
-                    "type": "WIDGET",
-                    "name": "General21v2",
+                    "name": "WidgetsGeneral-21v2",
                     "wrapper": "card-body bg-light rounded"
                   },
                   {
                     "key": "b4zcmd",
-                    "type": "WIDGET",
-                    "name": "General21v2",
+                    "name": "WidgetsGeneral-21v2",
                     "wrapper": "card-body bg-light rounded"
                   },
                   {
                     "key": "7fi1a",
-                    "type": "WIDGET",
-                    "name": "General21",
+                    "name": "WidgetsGeneral-21",
                     "wrapper": "card-body bg-success text-white rounded"
                   }
                 ]
@@ -910,7 +891,7 @@
                 "widgets": [
                   {
                     "key": "lwnyeq",
-                    "name": "Heading2",
+                    "name": "Headers-Heading2",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -921,8 +902,7 @@
                   },
                   {
                     "key": "xq1e7d",
-                    "type": "WIDGET",
-                    "name": "List10"
+                    "name": "WidgetsLists-10"
                   }
                 ]
               }
@@ -937,7 +917,7 @@
                 "widgets": [
                   {
                     "key": "hl8g8",
-                    "name": "Heading2",
+                    "name": "Headers-Heading2",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -948,8 +928,7 @@
                   },
                   {
                     "key": "iyxz2e",
-                    "type": "WIDGET",
-                    "name": "General20v1",
+                    "name": "WidgetsGeneral-20v1",
                     "wrapper": false
                   }
                 ]
@@ -960,7 +939,7 @@
                 "widgets": [
                   {
                     "key": "x0iyqi",
-                    "name": "Heading2",
+                    "name": "Headers-Heading2",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -971,8 +950,7 @@
                   },
                   {
                     "key": "eymxvw",
-                    "type": "WIDGET",
-                    "name": "ChartChartistjs7"
+                    "name": "ChartsChartistjs-7"
                   }
                 ]
               },
@@ -982,7 +960,7 @@
                 "widgets": [
                   {
                     "key": "vglybh",
-                    "name": "Heading2",
+                    "name": "Headers-Heading2",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -993,8 +971,7 @@
                   },
                   {
                     "key": "6xj0lo",
-                    "type": "WIDGET",
-                    "name": "ChartChartistjs10"
+                    "name": "ChartsChartistjs-10"
                   }
                 ]
               },
@@ -1003,7 +980,7 @@
                 "widgets": [
                   {
                     "key": "ndvmdi",
-                    "name": "Heading2",
+                    "name": "Headers-Heading2",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -1014,8 +991,7 @@
                   },
                   {
                     "key": "1tdgexh",
-                    "type": "WIDGET",
-                    "name": "General1v1"
+                    "name": "WidgetsGeneral-1v1"
                   }
                 ]
               }
@@ -1035,8 +1011,7 @@
                 "widgets": [
                   {
                     "key": "bzf5yj",
-                    "type": "WIDGET",
-                    "name": "AppCalendar"
+                    "name": "AppPartials-Calendar"
                   }
                 ]
               }
@@ -1059,8 +1034,7 @@
                 "widgets": [
                   {
                     "key": "39i2i8",
-                    "type": "WIDGET",
-                    "name": "CryptoList"
+                    "name": "Crypto-CryptoList"
                   }
                 ]
               }
@@ -1076,7 +1050,7 @@
                 "widgets": [
                   {
                     "key": "e9tguq",
-                    "name": "CardHeader3",
+                    "name": "Headers-CardHeader3",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header py-0",
@@ -1086,8 +1060,7 @@
                   },
                   {
                     "key": "0c9wms",
-                    "type": "WIDGET",
-                    "name": "CryptoChart"
+                    "name": "Crypto-CryptoChart"
                   }
                 ]
               },
@@ -1096,7 +1069,7 @@
                 "widgets": [
                   {
                     "key": "jxtgt8",
-                    "name": "CardHeader",
+                    "name": "Headers-CardHeader",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -1106,8 +1079,7 @@
                   },
                   {
                     "key": "mqo8a",
-                    "type": "WIDGET",
-                    "name": "CryptoOrders"
+                    "name": "Crypto-CryptoOrders"
                   }
                 ]
               },
@@ -1116,7 +1088,7 @@
                 "widgets": [
                   {
                     "key": "oq2avh",
-                    "name": "CardHeader",
+                    "name": "Headers-CardHeader",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -1126,8 +1098,7 @@
                   },
                   {
                     "key": "oimdzcp",
-                    "type": "WIDGET",
-                    "name": "CryptoHistory"
+                    "name": "Crypto-CryptoHistory"
                   }
                 ]
               },
@@ -1136,7 +1107,7 @@
                 "widgets": [
                   {
                     "key": "uadwij",
-                    "name": "CardHeader",
+                    "name": "Headers-CardHeader",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -1146,8 +1117,7 @@
                   },
                   {
                     "key": "lpb3z",
-                    "type": "WIDGET",
-                    "name": "CryptoLoadTable"
+                    "name": "Crypto-CryptoLoadTable"
                   }
                 ]
               },
@@ -1156,7 +1126,7 @@
                 "widgets": [
                   {
                     "key": "phpxec",
-                    "name": "CardHeader",
+                    "name": "Headers-CardHeader",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -1166,8 +1136,7 @@
                   },
                   {
                     "key": "83d1u8",
-                    "type": "WIDGET",
-                    "name": "CryptoLoadTable"
+                    "name": "Crypto-CryptoLoadTable"
                   }
                 ]
               }
@@ -1189,8 +1158,7 @@
                 "widgets": [
                   {
                     "key": "g46uyc",
-                    "type": "WIDGET",
-                    "name": "Chart12"
+                    "name": "WidgetsCharts-12"
                   }
                 ]
               }
@@ -1205,8 +1173,7 @@
                 "widgets": [
                   {
                     "key": "qh1e49",
-                    "type": "WIDGET",
-                    "name": "Chart12v1"
+                    "name": "WidgetsCharts-12v1"
                   }
                 ]
               }
@@ -1221,8 +1188,7 @@
                 "widgets": [
                   {
                     "key": "oo3ie8",
-                    "type": "WIDGET",
-                    "name": "Chart12v1"
+                    "name": "WidgetsCharts-12v1"
                   }
                 ]
               }
@@ -1243,8 +1209,7 @@
                 "widgets": [
                   {
                     "key": "styn5l",
-                    "type": "WIDGET",
-                    "name": "List19"
+                    "name": "WidgetsLists-19"
                   }
                 ]
               }
@@ -1260,8 +1225,7 @@
                 "widgets": [
                   {
                     "key": "ed9ykq",
-                    "type": "WIDGET",
-                    "name": "Chart7"
+                    "name": "WidgetsCharts-7"
                   }
                 ]
               }
@@ -1284,8 +1248,7 @@
                 "widgets": [
                   {
                     "key": "ecz2",
-                    "type": "WIDGET",
-                    "name": "General10v1"
+                    "name": "WidgetsGeneral-10v1"
                   }
                 ]
               },
@@ -1294,8 +1257,7 @@
                 "widgets": [
                   {
                     "key": "2dsbny",
-                    "type": "WIDGET",
-                    "name": "General12v1",
+                    "name": "WidgetsGeneral-12v1",
                     "wrapper": "card-body text-white bg-primary rounded"
                   }
                 ]
@@ -1305,8 +1267,7 @@
                 "widgets": [
                   {
                     "key": "u64v3n",
-                    "type": "WIDGET",
-                    "name": "General1"
+                    "name": "WidgetsGeneral-1"
                   }
                 ]
               },
@@ -1315,8 +1276,7 @@
                 "widgets": [
                   {
                     "key": "d0zocb",
-                    "type": "WIDGET",
-                    "name": "List16"
+                    "name": "WidgetsLists-16"
                   }
                 ]
               }
@@ -1332,7 +1292,7 @@
                 "widgets": [
                   {
                     "key": "jv223",
-                    "name": "Heading2",
+                    "name": "Headers-Heading2",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -1343,19 +1303,16 @@
                   },
                   {
                     "key": "brz0y9",
-                    "type": "WIDGET",
-                    "name": "CardHeaderTabbed6",
+                    "name": "Headers-CardHeaderTabbed6",
                     "wrapper": "card-header py-0"
                   },
                   {
                     "key": "7j0maw",
-                    "type": "WIDGET",
-                    "name": "General15"
+                    "name": "WidgetsGeneral-15"
                   },
                   {
                     "key": "gkcqht",
-                    "type": "WIDGET",
-                    "name": "AppWpWrite"
+                    "name": "AppPartials-WpWrite"
                   }
                 ]
               }
@@ -1378,8 +1335,7 @@
                 "widgets": [
                   {
                     "key": "c3pjbt",
-                    "type": "WIDGET",
-                    "name": "AppCalendar"
+                    "name": "AppPartials-Calendar"
                   }
                 ]
               }
@@ -1402,8 +1358,7 @@
                 "widgets": [
                   {
                     "key": "tgufhl",
-                    "type": "WIDGET",
-                    "name": "AppGallery"
+                    "name": "AppPartials-Gallery"
                   }
                 ]
               }
@@ -1426,8 +1381,7 @@
                 "widgets": [
                   {
                     "key": "wfh4wn",
-                    "type": "WIDGET",
-                    "name": "List22"
+                    "name": "WidgetsLists-22"
                   }
                 ]
               }
@@ -1443,7 +1397,7 @@
                 "widgets": [
                   {
                     "key": "at116c",
-                    "name": "CardHeader3",
+                    "name": "Headers-CardHeader3",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header py-0",
@@ -1453,8 +1407,7 @@
                   },
                   {
                     "key": "5y3pho",
-                    "type": "WIDGET",
-                    "name": "General14"
+                    "name": "WidgetsGeneral-14"
                   }
                 ]
               }
@@ -1477,8 +1430,7 @@
                 "widgets": [
                   {
                     "key": "bx0sx",
-                    "type": "WIDGET",
-                    "name": "List23"
+                    "name": "WidgetsLists-23"
                   }
                 ]
               }
@@ -1494,14 +1446,12 @@
                 "widgets": [
                   {
                     "key": "ok3a09",
-                    "type": "WIDGET",
-                    "name": "CardHeaderTabbed6",
+                    "name": "Headers-CardHeaderTabbed6",
                     "wrapper": "card-header py-0"
                   },
                   {
                     "key": "mwahbi",
-                    "type": "WIDGET",
-                    "name": "TablesAntd1"
+                    "name": "TablesAntd-1"
                   }
                 ]
               }
@@ -1524,7 +1474,7 @@
                 "widgets": [
                   {
                     "key": "g6ahxv",
-                    "name": "Heading",
+                    "name": "Headers-Heading",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -1550,8 +1500,7 @@
                 "widgets": [
                   {
                     "key": "vm675f",
-                    "type": "WIDGET",
-                    "name": "Table5"
+                    "name": "WidgetsTables-5"
                   }
                 ]
               },
@@ -1560,14 +1509,12 @@
                 "widgets": [
                   {
                     "key": "90gwxt",
-                    "type": "WIDGET",
-                    "name": "CardHeaderTabbed6",
+                    "name": "Headers-CardHeaderTabbed6",
                     "wrapper": "card-header py-0"
                   },
                   {
                     "key": "df3r3n",
-                    "type": "WIDGET",
-                    "name": "Chart3"
+                    "name": "WidgetsCharts-3"
                   }
                 ]
               }
@@ -1582,8 +1529,7 @@
                 "widgets": [
                   {
                     "key": "p2jaij",
-                    "type": "WIDGET",
-                    "name": "General2v3",
+                    "name": "WidgetsGeneral-2v3",
                     "wrapper": "card-body text-white bg-success rounded"
                   }
                 ]
@@ -1593,8 +1539,7 @@
                 "widgets": [
                   {
                     "key": "uk4s0c6",
-                    "type": "WIDGET",
-                    "name": "General2"
+                    "name": "WidgetsGeneral-2"
                   }
                 ]
               },
@@ -1603,8 +1548,7 @@
                 "widgets": [
                   {
                     "key": "6ql7vj",
-                    "type": "WIDGET",
-                    "name": "General2v1"
+                    "name": "WidgetsGeneral-2v1"
                   }
                 ]
               },
@@ -1613,8 +1557,7 @@
                 "widgets": [
                   {
                     "key": "yvpaul",
-                    "type": "WIDGET",
-                    "name": "List11"
+                    "name": "WidgetsLists-11"
                   }
                 ]
               }
@@ -1634,8 +1577,7 @@
                 "widgets": [
                   {
                     "key": "rxuzsy",
-                    "type": "WIDGET",
-                    "name": "General16",
+                    "name": "WidgetsGeneral-16",
                     "wrapper": false
                   }
                 ]
@@ -1651,8 +1593,7 @@
                 "widgets": [
                   {
                     "key": "hr261",
-                    "type": "WIDGET",
-                    "name": "General16",
+                    "name": "WidgetsGeneral-16",
                     "wrapper": false
                   }
                 ]
@@ -1668,8 +1609,7 @@
                 "widgets": [
                   {
                     "key": "5m2hcc",
-                    "type": "WIDGET",
-                    "name": "General16",
+                    "name": "WidgetsGeneral-16",
                     "wrapper": false
                   }
                 ]
@@ -1693,7 +1633,7 @@
                 "widgets": [
                   {
                     "key": "xpgt0b",
-                    "name": "Heading",
+                    "name": "Headers-Heading",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -1719,7 +1659,7 @@
                 "widgets": [
                   {
                     "key": "6b2t8i",
-                    "name": "CardHeader3",
+                    "name": "Headers-CardHeader3",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header py-0",
@@ -1729,8 +1669,7 @@
                   },
                   {
                     "key": "5nckta",
-                    "type": "WIDGET",
-                    "name": "TablesAntd2"
+                    "name": "TablesAntd-2"
                   }
                 ]
               }
@@ -1753,7 +1692,7 @@
                 "widgets": [
                   {
                     "key": "ffpsh8",
-                    "name": "Heading",
+                    "name": "Headers-Heading",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -1780,8 +1719,7 @@
                 "widgets": [
                   {
                     "key": "nbz019",
-                    "type": "WIDGET",
-                    "name": "Pagination"
+                    "name": "Controls-Pagination"
                   }
                 ]
               }
@@ -1801,8 +1739,7 @@
                 "widgets": [
                   {
                     "key": "rj7ffe",
-                    "type": "WIDGET",
-                    "name": "General16",
+                    "name": "WidgetsGeneral-16",
                     "wrapper": false
                   }
                 ]
@@ -1812,8 +1749,7 @@
                 "widgets": [
                   {
                     "key": "cecm0w",
-                    "type": "WIDGET",
-                    "name": "General16",
+                    "name": "WidgetsGeneral-16",
                     "wrapper": false
                   }
                 ]
@@ -1829,8 +1765,7 @@
                 "widgets": [
                   {
                     "key": "4z2pp",
-                    "type": "WIDGET",
-                    "name": "General16",
+                    "name": "WidgetsGeneral-16",
                     "wrapper": false
                   }
                 ]
@@ -1840,8 +1775,7 @@
                 "widgets": [
                   {
                     "key": "ydrk1",
-                    "type": "WIDGET",
-                    "name": "General16",
+                    "name": "WidgetsGeneral-16",
                     "wrapper": false
                   }
                 ]
@@ -1857,8 +1791,7 @@
                 "widgets": [
                   {
                     "key": "6uzizo",
-                    "type": "WIDGET",
-                    "name": "General16",
+                    "name": "WidgetsGeneral-16",
                     "wrapper": false
                   }
                 ]
@@ -1868,8 +1801,7 @@
                 "widgets": [
                   {
                     "key": "1cbd58",
-                    "type": "WIDGET",
-                    "name": "General16",
+                    "name": "WidgetsGeneral-16",
                     "wrapper": false
                   }
                 ]
@@ -1891,8 +1823,7 @@
                 "widgets": [
                   {
                     "key": "nads3r",
-                    "type": "WIDGET",
-                    "name": "Pagination"
+                    "name": "Controls-Pagination"
                   }
                 ]
               }
@@ -1915,7 +1846,7 @@
                 "widgets": [
                   {
                     "key": "1orywm",
-                    "name": "Heading",
+                    "name": "Headers-Heading",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -1941,8 +1872,7 @@
                 "widgets": [
                   {
                     "key": "lzcyoe",
-                    "type": "WIDGET",
-                    "name": "AppEcommerceProduct"
+                    "name": "AppPartials-EcommerceProduct"
                   }
                 ]
               }
@@ -1963,7 +1893,7 @@
                 "widgets": [
                   {
                     "key": "31gwhu",
-                    "name": "Heading",
+                    "name": "Headers-Heading",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -1989,8 +1919,7 @@
                 "widgets": [
                   {
                     "key": "jomr9g",
-                    "type": "WIDGET",
-                    "name": "General16",
+                    "name": "WidgetsGeneral-16",
                     "wrapper": false
                   }
                 ]
@@ -2006,8 +1935,7 @@
                 "widgets": [
                   {
                     "key": "y5l6bf",
-                    "type": "WIDGET",
-                    "name": "General16",
+                    "name": "WidgetsGeneral-16",
                     "wrapper": false
                   }
                 ]
@@ -2023,8 +1951,7 @@
                 "widgets": [
                   {
                     "key": "wj3i8m",
-                    "type": "WIDGET",
-                    "name": "General16",
+                    "name": "WidgetsGeneral-16",
                     "wrapper": false
                   }
                 ]
@@ -2048,7 +1975,7 @@
                 "widgets": [
                   {
                     "key": "fbwetl",
-                    "name": "Heading",
+                    "name": "Headers-Heading",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -2074,8 +2001,7 @@
                 "widgets": [
                   {
                     "key": "03iguj",
-                    "type": "WIDGET",
-                    "name": "Form6"
+                    "name": "Forms-6"
                   }
                 ]
               }
@@ -2098,8 +2024,7 @@
                 "widgets": [
                   {
                     "key": "bmqcpa",
-                    "type": "WIDGET",
-                    "name": "KitAntd",
+                    "name": "Hidden-KitAntd",
                     "wrapper": false
                   }
                 ]
@@ -2123,8 +2048,7 @@
                 "widgets": [
                   {
                     "key": "n15tt8",
-                    "type": "WIDGET",
-                    "name": "KitBootstrap",
+                    "name": "Hidden-KitBootstrap",
                     "wrapper": false
                   }
                 ]
@@ -2148,7 +2072,7 @@
                 "widgets": [
                   {
                     "key": "h0ng9",
-                    "name": "CardHeader",
+                    "name": "Headers-CardHeader",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -2158,8 +2082,7 @@
                   },
                   {
                     "key": "gbd6i",
-                    "type": "WIDGET",
-                    "name": "Typography2"
+                    "name": "Typography-2"
                   }
                 ]
               },
@@ -2169,7 +2092,7 @@
                 "widgets": [
                   {
                     "key": "zqr2q",
-                    "name": "CardHeader4",
+                    "name": "Headers-CardHeader4",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header py-0",
@@ -2181,8 +2104,7 @@
                   },
                   {
                     "key": "lg0ek8",
-                    "type": "WIDGET",
-                    "name": "Typography2"
+                    "name": "Typography-2"
                   }
                 ]
               },
@@ -2192,7 +2114,7 @@
                 "widgets": [
                   {
                     "key": "h9ugs",
-                    "name": "CardHeader5",
+                    "name": "Headers-CardHeader5",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header card-header-borderless py-0",
@@ -2202,8 +2124,7 @@
                   },
                   {
                     "key": "5avb8",
-                    "type": "WIDGET",
-                    "name": "Typography2"
+                    "name": "Typography-2"
                   }
                 ]
               },
@@ -2213,7 +2134,7 @@
                 "widgets": [
                   {
                     "key": "k5ey68",
-                    "name": "CardHeader",
+                    "name": "Headers-CardHeader",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -2223,8 +2144,7 @@
                   },
                   {
                     "key": "xm3bz6",
-                    "type": "WIDGET",
-                    "name": "Typography2"
+                    "name": "Typography-2"
                   }
                 ]
               }
@@ -2240,7 +2160,7 @@
                 "widgets": [
                   {
                     "key": "56wqck",
-                    "name": "CardHeader",
+                    "name": "Headers-CardHeader",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -2250,8 +2170,7 @@
                   },
                   {
                     "key": "8zt2xr",
-                    "type": "WIDGET",
-                    "name": "Typography2"
+                    "name": "Typography-2"
                   }
                 ]
               },
@@ -2261,7 +2180,7 @@
                 "widgets": [
                   {
                     "key": "yvfkw",
-                    "name": "CardHeader3",
+                    "name": "Headers-CardHeader3",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header py-0",
@@ -2271,8 +2190,7 @@
                   },
                   {
                     "key": "phw0xj",
-                    "type": "WIDGET",
-                    "name": "Typography2"
+                    "name": "Typography-2"
                   }
                 ]
               },
@@ -2282,7 +2200,7 @@
                 "widgets": [
                   {
                     "key": "zzufp",
-                    "name": "CardHeader",
+                    "name": "Headers-CardHeader",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -2292,12 +2210,11 @@
                   },
                   {
                     "key": "5w8yha",
-                    "type": "WIDGET",
-                    "name": "Typography2"
+                    "name": "Typography-2"
                   },
                   {
                     "key": "pznw4",
-                    "name": "CardFooter",
+                    "name": "Headers-CardFooter",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-footer",
@@ -2316,7 +2233,7 @@
                 "widgets": [
                   {
                     "key": "zwb7y",
-                    "name": "CardHeader4",
+                    "name": "Headers-CardHeader4",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header py-0",
@@ -2328,8 +2245,7 @@
                   },
                   {
                     "key": "et73yp",
-                    "type": "WIDGET",
-                    "name": "Typography2"
+                    "name": "Typography-2"
                   }
                 ]
               }
@@ -2352,7 +2268,7 @@
                 "widgets": [
                   {
                     "key": "r5s063",
-                    "name": "CardHeaderTabbed",
+                    "name": "Headers-CardHeaderTabbed",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header py-0",
@@ -2362,8 +2278,7 @@
                   },
                   {
                     "key": "g078zu",
-                    "type": "WIDGET",
-                    "name": "Typography2"
+                    "name": "Typography-2"
                   }
                 ]
               },
@@ -2373,7 +2288,7 @@
                 "widgets": [
                   {
                     "key": "gkcdzm",
-                    "name": "CardHeaderTabbed3",
+                    "name": "Headers-CardHeaderTabbed3",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header py-0",
@@ -2383,8 +2298,7 @@
                   },
                   {
                     "key": "8iv85",
-                    "type": "WIDGET",
-                    "name": "Typography2"
+                    "name": "Typography-2"
                   }
                 ]
               },
@@ -2394,7 +2308,7 @@
                 "widgets": [
                   {
                     "key": "lxoj0b",
-                    "name": "CardHeaderTabbed4",
+                    "name": "Headers-CardHeaderTabbed4",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header py-0",
@@ -2404,8 +2318,7 @@
                   },
                   {
                     "key": "uxzcf",
-                    "type": "WIDGET",
-                    "name": "Typography2"
+                    "name": "Typography-2"
                   }
                 ]
               }
@@ -2421,7 +2334,7 @@
                 "widgets": [
                   {
                     "key": "icghn9",
-                    "name": "CardHeaderTabbed2",
+                    "name": "Headers-CardHeaderTabbed2",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header py-0",
@@ -2431,8 +2344,7 @@
                   },
                   {
                     "key": "aqdqfq",
-                    "type": "WIDGET",
-                    "name": "Typography2"
+                    "name": "Typography-2"
                   }
                 ]
               },
@@ -2442,7 +2354,7 @@
                 "widgets": [
                   {
                     "key": "tzqhdh",
-                    "name": "CardHeaderTabbed5",
+                    "name": "Headers-CardHeaderTabbed5",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header py-0",
@@ -2453,8 +2365,7 @@
                   },
                   {
                     "key": "5acbwb",
-                    "type": "WIDGET",
-                    "name": "Typography2"
+                    "name": "Typography-2"
                   }
                 ]
               },
@@ -2464,14 +2375,12 @@
                 "widgets": [
                   {
                     "key": "6ofge7",
-                    "type": "WIDGET",
-                    "name": "CardHeaderTabbed6",
+                    "name": "Headers-CardHeaderTabbed6",
                     "wrapper": "card-header py-0"
                   },
                   {
                     "key": "qqeg7",
-                    "type": "WIDGET",
-                    "name": "Typography2"
+                    "name": "Typography-2"
                   }
                 ]
               }
@@ -2494,7 +2403,7 @@
                 "widgets": [
                   {
                     "key": "znund6",
-                    "name": "Heading3",
+                    "name": "Headers-Heading3",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -2512,7 +2421,7 @@
                 "widgets": [
                   {
                     "key": "wmwav",
-                    "name": "CardHeader",
+                    "name": "Headers-CardHeader",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -2522,8 +2431,7 @@
                   },
                   {
                     "key": "cft1jr",
-                    "type": "WIDGET",
-                    "name": "TablesAntd3"
+                    "name": "TablesAntd-3"
                   }
                 ]
               },
@@ -2533,7 +2441,7 @@
                 "widgets": [
                   {
                     "key": "ttuzx8",
-                    "name": "CardHeader",
+                    "name": "Headers-CardHeader",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -2543,8 +2451,7 @@
                   },
                   {
                     "key": "yw8m2m",
-                    "type": "WIDGET",
-                    "name": "TablesAntd4"
+                    "name": "TablesAntd-4"
                   }
                 ]
               },
@@ -2554,7 +2461,7 @@
                 "widgets": [
                   {
                     "key": "mncr8h",
-                    "name": "CardHeader",
+                    "name": "Headers-CardHeader",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -2564,8 +2471,7 @@
                   },
                   {
                     "key": "2ekybi",
-                    "type": "WIDGET",
-                    "name": "TablesAntd6"
+                    "name": "TablesAntd-6"
                   }
                 ]
               },
@@ -2575,7 +2481,7 @@
                 "widgets": [
                   {
                     "key": "etuf3b",
-                    "name": "CardHeader",
+                    "name": "Headers-CardHeader",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -2585,8 +2491,7 @@
                   },
                   {
                     "key": "12kb4g7",
-                    "type": "WIDGET",
-                    "name": "TablesAntd7"
+                    "name": "TablesAntd-7"
                   }
                 ]
               },
@@ -2596,7 +2501,7 @@
                 "widgets": [
                   {
                     "key": "ped4uk",
-                    "name": "CardHeader",
+                    "name": "Headers-CardHeader",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -2606,8 +2511,7 @@
                   },
                   {
                     "key": "p17qlk",
-                    "type": "WIDGET",
-                    "name": "TablesAntd8"
+                    "name": "TablesAntd-8"
                   }
                 ]
               },
@@ -2617,7 +2521,7 @@
                 "widgets": [
                   {
                     "key": "ec342d",
-                    "name": "CardHeader",
+                    "name": "Headers-CardHeader",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -2627,8 +2531,7 @@
                   },
                   {
                     "key": "afad0f",
-                    "type": "WIDGET",
-                    "name": "TablesAntd5"
+                    "name": "TablesAntd-5"
                   }
                 ]
               },
@@ -2638,7 +2541,7 @@
                 "widgets": [
                   {
                     "key": "e4afuh",
-                    "name": "CardHeader",
+                    "name": "Headers-CardHeader",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -2648,8 +2551,7 @@
                   },
                   {
                     "key": "gfm1g",
-                    "type": "WIDGET",
-                    "name": "TablesAntd9"
+                    "name": "TablesAntd-9"
                   }
                 ]
               }
@@ -2672,7 +2574,7 @@
                 "widgets": [
                   {
                     "key": "a6lhe",
-                    "name": "Heading3",
+                    "name": "Headers-Heading3",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -2690,7 +2592,7 @@
                 "widgets": [
                   {
                     "key": "fuk38s",
-                    "name": "CardHeader",
+                    "name": "Headers-CardHeader",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -2700,8 +2602,7 @@
                   },
                   {
                     "key": "qsp53f",
-                    "type": "WIDGET",
-                    "name": "TablesBootstrap2"
+                    "name": "TablesBootstrap-2"
                   }
                 ]
               },
@@ -2711,7 +2612,7 @@
                 "widgets": [
                   {
                     "key": "hdk1hc",
-                    "name": "CardHeader",
+                    "name": "Headers-CardHeader",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -2721,8 +2622,7 @@
                   },
                   {
                     "key": "rq6n08",
-                    "type": "WIDGET",
-                    "name": "TablesBootstrap3"
+                    "name": "TablesBootstrap-3"
                   }
                 ]
               },
@@ -2732,7 +2632,7 @@
                 "widgets": [
                   {
                     "key": "7l9owl",
-                    "name": "CardHeader",
+                    "name": "Headers-CardHeader",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -2742,8 +2642,7 @@
                   },
                   {
                     "key": "9ce24y",
-                    "type": "WIDGET",
-                    "name": "TablesBootstrap4"
+                    "name": "TablesBootstrap-4"
                   }
                 ]
               },
@@ -2753,7 +2652,7 @@
                 "widgets": [
                   {
                     "key": "oh0u25",
-                    "name": "CardHeader",
+                    "name": "Headers-CardHeader",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -2763,8 +2662,7 @@
                   },
                   {
                     "key": "bpkafz",
-                    "type": "WIDGET",
-                    "name": "TablesBootstrap5"
+                    "name": "TablesBootstrap-5"
                   }
                 ]
               },
@@ -2774,7 +2672,7 @@
                 "widgets": [
                   {
                     "key": "fpamxd",
-                    "name": "CardHeader",
+                    "name": "Headers-CardHeader",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -2784,8 +2682,7 @@
                   },
                   {
                     "key": "n0kl9w",
-                    "type": "WIDGET",
-                    "name": "TablesBootstrap6"
+                    "name": "TablesBootstrap-6"
                   }
                 ]
               },
@@ -2795,7 +2692,7 @@
                 "widgets": [
                   {
                     "key": "l45ccu",
-                    "name": "CardHeader",
+                    "name": "Headers-CardHeader",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -2805,8 +2702,7 @@
                   },
                   {
                     "key": "w5qlp",
-                    "type": "WIDGET",
-                    "name": "TablesBootstrap7"
+                    "name": "TablesBootstrap-7"
                   }
                 ]
               },
@@ -2816,7 +2712,7 @@
                 "widgets": [
                   {
                     "key": "xp81c",
-                    "name": "CardHeader",
+                    "name": "Headers-CardHeader",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -2826,8 +2722,7 @@
                   },
                   {
                     "key": "ats45",
-                    "type": "WIDGET",
-                    "name": "TablesBootstrap8"
+                    "name": "TablesBootstrap-8"
                   }
                 ]
               },
@@ -2837,7 +2732,7 @@
                 "widgets": [
                   {
                     "key": "apengp",
-                    "name": "CardHeader",
+                    "name": "Headers-CardHeader",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -2847,8 +2742,7 @@
                   },
                   {
                     "key": "fgjez",
-                    "type": "WIDGET",
-                    "name": "TablesBootstrap9"
+                    "name": "TablesBootstrap-9"
                   }
                 ]
               }
@@ -2871,7 +2765,7 @@
                 "widgets": [
                   {
                     "key": "j49efq",
-                    "name": "Heading3",
+                    "name": "Headers-Heading3",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -2900,7 +2794,7 @@
                 "widgets": [
                   {
                     "key": "285fvf",
-                    "name": "CardHeader",
+                    "name": "Headers-CardHeader",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -2910,8 +2804,7 @@
                   },
                   {
                     "key": "ipow2a",
-                    "type": "WIDGET",
-                    "name": "ChartChartistjs1"
+                    "name": "ChartsChartistjs-1"
                   }
                 ]
               },
@@ -2921,7 +2814,7 @@
                 "widgets": [
                   {
                     "key": "af7ifp",
-                    "name": "CardHeader",
+                    "name": "Headers-CardHeader",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -2931,8 +2824,7 @@
                   },
                   {
                     "key": "h8tpz",
-                    "type": "WIDGET",
-                    "name": "ChartChartistjs3"
+                    "name": "ChartsChartistjs-3"
                   }
                 ]
               },
@@ -2942,7 +2834,7 @@
                 "widgets": [
                   {
                     "key": "lrrujb",
-                    "name": "CardHeader",
+                    "name": "Headers-CardHeader",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -2952,8 +2844,7 @@
                   },
                   {
                     "key": "9rxvy",
-                    "type": "WIDGET",
-                    "name": "ChartChartistjs5"
+                    "name": "ChartsChartistjs-5"
                   }
                 ]
               },
@@ -2963,7 +2854,7 @@
                 "widgets": [
                   {
                     "key": "sjznw",
-                    "name": "CardHeader",
+                    "name": "Headers-CardHeader",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -2973,8 +2864,7 @@
                   },
                   {
                     "key": "mfnmvg",
-                    "type": "WIDGET",
-                    "name": "ChartChartistjs7"
+                    "name": "ChartsChartistjs-7"
                   }
                 ]
               },
@@ -2984,7 +2874,7 @@
                 "widgets": [
                   {
                     "key": "9nqgyq",
-                    "name": "CardHeader",
+                    "name": "Headers-CardHeader",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -2994,8 +2884,7 @@
                   },
                   {
                     "key": "9r13u",
-                    "type": "WIDGET",
-                    "name": "ChartChartistjs9"
+                    "name": "ChartsChartistjs-9"
                   }
                 ]
               },
@@ -3005,7 +2894,7 @@
                 "widgets": [
                   {
                     "key": "9yaxtn",
-                    "name": "CardHeader",
+                    "name": "Headers-CardHeader",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -3015,8 +2904,7 @@
                   },
                   {
                     "key": "tpkde",
-                    "type": "WIDGET",
-                    "name": "ChartChartistjs11"
+                    "name": "ChartsChartistjs-11"
                   }
                 ]
               }
@@ -3032,7 +2920,7 @@
                 "widgets": [
                   {
                     "key": "x300mo",
-                    "name": "CardHeader",
+                    "name": "Headers-CardHeader",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -3042,8 +2930,7 @@
                   },
                   {
                     "key": "3woqn",
-                    "type": "WIDGET",
-                    "name": "ChartChartistjs2"
+                    "name": "ChartsChartistjs-2"
                   }
                 ]
               },
@@ -3053,7 +2940,7 @@
                 "widgets": [
                   {
                     "key": "ybaitk",
-                    "name": "CardHeader",
+                    "name": "Headers-CardHeader",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -3063,8 +2950,7 @@
                   },
                   {
                     "key": "pdg1b",
-                    "type": "WIDGET",
-                    "name": "ChartChartistjs4"
+                    "name": "ChartsChartistjs-4"
                   }
                 ]
               },
@@ -3074,7 +2960,7 @@
                 "widgets": [
                   {
                     "key": "f1wl3i",
-                    "name": "CardHeader",
+                    "name": "Headers-CardHeader",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -3084,8 +2970,7 @@
                   },
                   {
                     "key": "qtol7c",
-                    "type": "WIDGET",
-                    "name": "ChartChartistjs6"
+                    "name": "ChartsChartistjs-6"
                   }
                 ]
               },
@@ -3095,7 +2980,7 @@
                 "widgets": [
                   {
                     "key": "53grhk",
-                    "name": "CardHeader",
+                    "name": "Headers-CardHeader",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -3105,8 +2990,7 @@
                   },
                   {
                     "key": "hkfxsi",
-                    "type": "WIDGET",
-                    "name": "ChartChartistjs8"
+                    "name": "ChartsChartistjs-8"
                   }
                 ]
               },
@@ -3116,7 +3000,7 @@
                 "widgets": [
                   {
                     "key": "0jus8",
-                    "name": "CardHeader",
+                    "name": "Headers-CardHeader",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -3126,8 +3010,7 @@
                   },
                   {
                     "key": "10n9ut",
-                    "type": "WIDGET",
-                    "name": "ChartChartistjs10"
+                    "name": "ChartsChartistjs-10"
                   }
                 ]
               },
@@ -3137,7 +3020,7 @@
                 "widgets": [
                   {
                     "key": "zi003x",
-                    "name": "CardHeader",
+                    "name": "Headers-CardHeader",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -3147,8 +3030,7 @@
                   },
                   {
                     "key": "fprcr8",
-                    "type": "WIDGET",
-                    "name": "ChartChartistjs12"
+                    "name": "ChartsChartistjs-12"
                   }
                 ]
               }
@@ -3171,7 +3053,7 @@
                 "widgets": [
                   {
                     "key": "1vndxb",
-                    "name": "Heading3",
+                    "name": "Headers-Heading3",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -3200,7 +3082,7 @@
                 "widgets": [
                   {
                     "key": "flef4",
-                    "name": "CardHeader",
+                    "name": "Headers-CardHeader",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -3210,8 +3092,7 @@
                   },
                   {
                     "key": "ftwso",
-                    "type": "WIDGET",
-                    "name": "ChartChartjs1"
+                    "name": "ChartsChartjs-1"
                   }
                 ]
               },
@@ -3221,7 +3102,7 @@
                 "widgets": [
                   {
                     "key": "b1oaqh",
-                    "name": "CardHeader",
+                    "name": "Headers-CardHeader",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -3231,8 +3112,7 @@
                   },
                   {
                     "key": "mhukie",
-                    "type": "WIDGET",
-                    "name": "ChartChartjs3"
+                    "name": "ChartsChartjs-3"
                   }
                 ]
               },
@@ -3242,7 +3122,7 @@
                 "widgets": [
                   {
                     "key": "6jm25w",
-                    "name": "CardHeader",
+                    "name": "Headers-CardHeader",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -3252,8 +3132,7 @@
                   },
                   {
                     "key": "hpef6d",
-                    "type": "WIDGET",
-                    "name": "ChartChartjs5"
+                    "name": "ChartsChartjs-5"
                   }
                 ]
               }
@@ -3269,7 +3148,7 @@
                 "widgets": [
                   {
                     "key": "6fclwp",
-                    "name": "CardHeader",
+                    "name": "Headers-CardHeader",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -3279,8 +3158,7 @@
                   },
                   {
                     "key": "gpyve",
-                    "type": "WIDGET",
-                    "name": "ChartChartjs2"
+                    "name": "ChartsChartjs-2"
                   }
                 ]
               },
@@ -3290,7 +3168,7 @@
                 "widgets": [
                   {
                     "key": "knaqpc",
-                    "name": "CardHeader",
+                    "name": "Headers-CardHeader",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -3300,8 +3178,7 @@
                   },
                   {
                     "key": "l7pgg",
-                    "type": "WIDGET",
-                    "name": "ChartChartjs4"
+                    "name": "ChartsChartjs-4"
                   }
                 ]
               },
@@ -3311,7 +3188,7 @@
                 "widgets": [
                   {
                     "key": "dbc4d",
-                    "name": "CardHeader",
+                    "name": "Headers-CardHeader",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -3321,8 +3198,7 @@
                   },
                   {
                     "key": "8qhsor",
-                    "type": "WIDGET",
-                    "name": "ChartChartjs6"
+                    "name": "ChartsChartjs-6"
                   }
                 ]
               }
@@ -3345,7 +3221,7 @@
                 "widgets": [
                   {
                     "key": "mozvbs",
-                    "name": "Heading3",
+                    "name": "Headers-Heading3",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -3374,7 +3250,7 @@
                 "widgets": [
                   {
                     "key": "s526ve",
-                    "name": "CardHeader",
+                    "name": "Headers-CardHeader",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -3384,8 +3260,7 @@
                   },
                   {
                     "key": "65bxre",
-                    "type": "WIDGET",
-                    "name": "ChartCThree1"
+                    "name": "ChartsC3-1"
                   }
                 ]
               },
@@ -3395,7 +3270,7 @@
                 "widgets": [
                   {
                     "key": "ywpy08",
-                    "name": "CardHeader",
+                    "name": "Headers-CardHeader",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -3405,8 +3280,7 @@
                   },
                   {
                     "key": "drjo42",
-                    "type": "WIDGET",
-                    "name": "ChartCThree3"
+                    "name": "ChartsC3-3"
                   }
                 ]
               },
@@ -3416,7 +3290,7 @@
                 "widgets": [
                   {
                     "key": "4z8wvf",
-                    "name": "CardHeader",
+                    "name": "Headers-CardHeader",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -3426,8 +3300,7 @@
                   },
                   {
                     "key": "d2h2bk",
-                    "type": "WIDGET",
-                    "name": "ChartCThree5"
+                    "name": "ChartsC3-5"
                   }
                 ]
               },
@@ -3437,7 +3310,7 @@
                 "widgets": [
                   {
                     "key": "ol3qw",
-                    "name": "CardHeader",
+                    "name": "Headers-CardHeader",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -3447,8 +3320,7 @@
                   },
                   {
                     "key": "neaqm",
-                    "type": "WIDGET",
-                    "name": "ChartCThree7"
+                    "name": "ChartsC3-7"
                   }
                 ]
               },
@@ -3458,7 +3330,7 @@
                 "widgets": [
                   {
                     "key": "9ja9v",
-                    "name": "CardHeader",
+                    "name": "Headers-CardHeader",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -3468,8 +3340,7 @@
                   },
                   {
                     "key": "od9zps",
-                    "type": "WIDGET",
-                    "name": "ChartCThree9"
+                    "name": "ChartsC3-9"
                   }
                 ]
               },
@@ -3479,7 +3350,7 @@
                 "widgets": [
                   {
                     "key": "gnw8xr",
-                    "name": "CardHeader",
+                    "name": "Headers-CardHeader",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -3489,8 +3360,7 @@
                   },
                   {
                     "key": "pkkk3k",
-                    "type": "WIDGET",
-                    "name": "ChartCThree11"
+                    "name": "ChartsC3-11"
                   }
                 ]
               }
@@ -3506,7 +3376,7 @@
                 "widgets": [
                   {
                     "key": "dvo4br",
-                    "name": "CardHeader",
+                    "name": "Headers-CardHeader",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -3516,8 +3386,7 @@
                   },
                   {
                     "key": "2k7uv8",
-                    "type": "WIDGET",
-                    "name": "ChartCThree2"
+                    "name": "ChartsC3-2"
                   }
                 ]
               },
@@ -3527,7 +3396,7 @@
                 "widgets": [
                   {
                     "key": "j9k31d",
-                    "name": "CardHeader",
+                    "name": "Headers-CardHeader",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -3537,8 +3406,7 @@
                   },
                   {
                     "key": "6yzmbs",
-                    "type": "WIDGET",
-                    "name": "ChartCThree4"
+                    "name": "ChartsC3-4"
                   }
                 ]
               },
@@ -3548,7 +3416,7 @@
                 "widgets": [
                   {
                     "key": "kkjfq9",
-                    "name": "CardHeader",
+                    "name": "Headers-CardHeader",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -3558,8 +3426,7 @@
                   },
                   {
                     "key": "jp1ogk",
-                    "type": "WIDGET",
-                    "name": "ChartCThree6"
+                    "name": "ChartsC3-6"
                   }
                 ]
               },
@@ -3569,7 +3436,7 @@
                 "widgets": [
                   {
                     "key": "fd8psr",
-                    "name": "CardHeader",
+                    "name": "Headers-CardHeader",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -3579,8 +3446,7 @@
                   },
                   {
                     "key": "k8vyk",
-                    "type": "WIDGET",
-                    "name": "ChartCThree8"
+                    "name": "ChartsC3-8"
                   }
                 ]
               },
@@ -3590,7 +3456,7 @@
                 "widgets": [
                   {
                     "key": "vhre85",
-                    "name": "CardHeader",
+                    "name": "Headers-CardHeader",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -3600,8 +3466,7 @@
                   },
                   {
                     "key": "ihxrls",
-                    "type": "WIDGET",
-                    "name": "ChartCThree10"
+                    "name": "ChartsC3-10"
                   }
                 ]
               },
@@ -3611,7 +3476,7 @@
                 "widgets": [
                   {
                     "key": "8lwjdc",
-                    "name": "CardHeader",
+                    "name": "Headers-CardHeader",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -3621,8 +3486,7 @@
                   },
                   {
                     "key": "mr7qmb",
-                    "type": "WIDGET",
-                    "name": "ChartCThree12"
+                    "name": "ChartsC3-12"
                   }
                 ]
               }
@@ -3645,7 +3509,7 @@
                 "widgets": [
                   {
                     "key": "3a0fpm",
-                    "name": "Heading3",
+                    "name": "Headers-Heading3",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -3663,8 +3527,7 @@
                 "widgets": [
                   {
                     "key": "fm6q9f",
-                    "type": "WIDGET",
-                    "name": "IconsFeather"
+                    "name": "Hidden-IconsFeather"
                   }
                 ]
               }
@@ -3687,7 +3550,7 @@
                 "widgets": [
                   {
                     "key": "uop92a",
-                    "name": "Heading3",
+                    "name": "Headers-Heading3",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -3705,8 +3568,7 @@
                 "widgets": [
                   {
                     "key": "zoket",
-                    "type": "WIDGET",
-                    "name": "IconsFontawesome"
+                    "name": "Hidden-IconsFontawesome"
                   }
                 ]
               }
@@ -3729,7 +3591,7 @@
                 "widgets": [
                   {
                     "key": "7mm93",
-                    "name": "Heading3",
+                    "name": "Headers-Heading3",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -3747,8 +3609,7 @@
                 "widgets": [
                   {
                     "key": "tbjbn",
-                    "type": "WIDGET",
-                    "name": "IconsLineariconsFree"
+                    "name": "Hidden-IconsLineariconsFree"
                   }
                 ]
               }
@@ -3771,7 +3632,7 @@
                 "widgets": [
                   {
                     "key": "de3xq",
-                    "name": "Heading3",
+                    "name": "Headers-Heading3",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -3789,8 +3650,7 @@
                 "widgets": [
                   {
                     "key": "9xri9r",
-                    "type": "WIDGET",
-                    "name": "IconsIcomoonFree"
+                    "name": "Hidden-IconsIcomoonFree"
                   }
                 ]
               }
@@ -3813,7 +3673,7 @@
                 "widgets": [
                   {
                     "key": "urywid",
-                    "name": "Heading",
+                    "name": "Headers-Heading",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -3829,7 +3689,7 @@
                 "widgets": [
                   {
                     "key": "zzrqd9",
-                    "name": "CardHeader",
+                    "name": "Headers-CardHeader",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -3839,8 +3699,7 @@
                   },
                   {
                     "key": "y4k0kp",
-                    "type": "WIDGET",
-                    "name": "Form1"
+                    "name": "Forms-1"
                   }
                 ]
               },
@@ -3850,7 +3709,7 @@
                 "widgets": [
                   {
                     "key": "n57v",
-                    "name": "CardHeader",
+                    "name": "Headers-CardHeader",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -3860,8 +3719,7 @@
                   },
                   {
                     "key": "xmj1d",
-                    "type": "WIDGET",
-                    "name": "Form2"
+                    "name": "Forms-2"
                   }
                 ]
               },
@@ -3871,7 +3729,7 @@
                 "widgets": [
                   {
                     "key": "7lx1dh",
-                    "name": "CardHeader",
+                    "name": "Headers-CardHeader",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -3881,8 +3739,7 @@
                   },
                   {
                     "key": "pj5doc",
-                    "type": "WIDGET",
-                    "name": "Form3"
+                    "name": "Forms-3"
                   }
                 ]
               },
@@ -3892,7 +3749,7 @@
                 "widgets": [
                   {
                     "key": "grfo9",
-                    "name": "CardHeader",
+                    "name": "Headers-CardHeader",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -3902,8 +3759,7 @@
                   },
                   {
                     "key": "trjv0q",
-                    "type": "WIDGET",
-                    "name": "Form4"
+                    "name": "Forms-4"
                   }
                 ]
               },
@@ -3913,7 +3769,7 @@
                 "widgets": [
                   {
                     "key": "a2aeqb",
-                    "name": "CardHeader",
+                    "name": "Headers-CardHeader",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -3923,8 +3779,7 @@
                   },
                   {
                     "key": "f8ctve",
-                    "type": "WIDGET",
-                    "name": "Form5"
+                    "name": "Forms-5"
                   }
                 ]
               }
@@ -3947,7 +3802,7 @@
                 "widgets": [
                   {
                     "key": "s1z0ey",
-                    "name": "Heading",
+                    "name": "Headers-Heading",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -3963,8 +3818,7 @@
                 "widgets": [
                   {
                     "key": "v4pive",
-                    "type": "WIDGET",
-                    "name": "Email1"
+                    "name": "Emails-1"
                   }
                 ]
               },
@@ -3974,7 +3828,7 @@
                 "widgets": [
                   {
                     "key": "cc5zy",
-                    "name": "Heading",
+                    "name": "Headers-Heading",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -3990,8 +3844,7 @@
                 "widgets": [
                   {
                     "key": "m84q5l",
-                    "type": "WIDGET",
-                    "name": "Email2"
+                    "name": "Emails-2"
                   }
                 ]
               },
@@ -4001,7 +3854,7 @@
                 "widgets": [
                   {
                     "key": "xk8r9",
-                    "name": "Heading",
+                    "name": "Headers-Heading",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -4017,8 +3870,7 @@
                 "widgets": [
                   {
                     "key": "eqiow",
-                    "type": "WIDGET",
-                    "name": "Email3"
+                    "name": "Emails-3"
                   }
                 ]
               },
@@ -4028,7 +3880,7 @@
                 "widgets": [
                   {
                     "key": "6n1607",
-                    "name": "Heading",
+                    "name": "Headers-Heading",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -4044,8 +3896,7 @@
                 "widgets": [
                   {
                     "key": "fjrifr",
-                    "type": "WIDGET",
-                    "name": "Email4"
+                    "name": "Emails-4"
                   }
                 ]
               }
@@ -4068,7 +3919,7 @@
                 "widgets": [
                   {
                     "key": "5ioyo",
-                    "name": "Heading",
+                    "name": "Headers-Heading",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -4095,8 +3946,7 @@
                 "widgets": [
                   {
                     "key": "btluy",
-                    "type": "WIDGET",
-                    "name": "List21",
+                    "name": "WidgetsLists-21",
                     "wrapper": false
                   }
                 ]
@@ -4113,8 +3963,7 @@
                 "widgets": [
                   {
                     "key": "lslnq4",
-                    "type": "WIDGET",
-                    "name": "List21v1",
+                    "name": "WidgetsLists-21v1",
                     "wrapper": false
                   }
                 ]
@@ -4131,8 +3980,7 @@
                 "widgets": [
                   {
                     "key": "06e9sya",
-                    "type": "WIDGET",
-                    "name": "List21v2",
+                    "name": "WidgetsLists-21v2",
                     "wrapper": false
                   }
                 ]
@@ -4156,7 +4004,7 @@
                 "widgets": [
                   {
                     "key": "kbyau",
-                    "name": "Heading",
+                    "name": "Headers-Heading",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -4172,8 +4020,7 @@
                 "widgets": [
                   {
                     "key": "bz1kgf",
-                    "type": "WIDGET",
-                    "name": "Table8"
+                    "name": "WidgetsTables-8"
                   }
                 ]
               }
@@ -4196,7 +4043,7 @@
                 "widgets": [
                   {
                     "key": "sis23",
-                    "name": "Heading3",
+                    "name": "Headers-Heading3",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -4214,8 +4061,7 @@
                 "widgets": [
                   {
                     "key": "koily",
-                    "type": "WIDGET",
-                    "name": "Utilities"
+                    "name": "Hidden-Utilities"
                   }
                 ]
               }
@@ -4238,7 +4084,7 @@
                 "widgets": [
                   {
                     "key": "902mji",
-                    "name": "Heading3",
+                    "name": "Headers-Heading3",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -4256,8 +4102,7 @@
                 "widgets": [
                   {
                     "key": "h5kt0c",
-                    "type": "WIDGET",
-                    "name": "Grid"
+                    "name": "Hidden-Grid"
                   }
                 ]
               }
@@ -4280,7 +4125,7 @@
                 "widgets": [
                   {
                     "key": "0611nk",
-                    "name": "Heading3",
+                    "name": "Headers-Heading3",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -4298,8 +4143,7 @@
                 "widgets": [
                   {
                     "key": "93v5k",
-                    "type": "WIDGET",
-                    "name": "Typography"
+                    "name": "Hidden-Typography"
                   }
                 ]
               }
@@ -4322,7 +4166,7 @@
                 "widgets": [
                   {
                     "key": "sdb0ge",
-                    "name": "Heading3",
+                    "name": "Headers-Heading3",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -4340,8 +4184,7 @@
                 "widgets": [
                   {
                     "key": "8jmgys",
-                    "type": "WIDGET",
-                    "name": "Colors"
+                    "name": "Hidden-Colors"
                   }
                 ]
               }
@@ -4364,7 +4207,7 @@
                 "widgets": [
                   {
                     "key": "66323r",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -4380,8 +4223,7 @@
                 "widgets": [
                   {
                     "key": "84l0x7",
-                    "type": "WIDGET",
-                    "name": "List1"
+                    "name": "WidgetsLists-1"
                   }
                 ]
               },
@@ -4391,7 +4233,7 @@
                 "widgets": [
                   {
                     "key": "69hdnb",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -4407,8 +4249,7 @@
                 "widgets": [
                   {
                     "key": "w4flky",
-                    "type": "WIDGET",
-                    "name": "List5"
+                    "name": "WidgetsLists-5"
                   }
                 ]
               },
@@ -4418,7 +4259,7 @@
                 "widgets": [
                   {
                     "key": "nqpkmo",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -4434,8 +4275,7 @@
                 "widgets": [
                   {
                     "key": "7a3cec",
-                    "type": "WIDGET",
-                    "name": "List8"
+                    "name": "WidgetsLists-8"
                   }
                 ]
               },
@@ -4445,7 +4285,7 @@
                 "widgets": [
                   {
                     "key": "a4itld",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -4461,8 +4301,7 @@
                 "widgets": [
                   {
                     "key": "jmdcef",
-                    "type": "WIDGET",
-                    "name": "List11"
+                    "name": "WidgetsLists-11"
                   }
                 ]
               },
@@ -4472,7 +4311,7 @@
                 "widgets": [
                   {
                     "key": "owjrwi",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -4488,8 +4327,7 @@
                 "widgets": [
                   {
                     "key": "28d6c",
-                    "type": "WIDGET",
-                    "name": "List14"
+                    "name": "WidgetsLists-14"
                   }
                 ]
               },
@@ -4499,7 +4337,7 @@
                 "widgets": [
                   {
                     "key": "mi7tw",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -4515,8 +4353,7 @@
                 "widgets": [
                   {
                     "key": "kk83df",
-                    "type": "WIDGET",
-                    "name": "List17"
+                    "name": "WidgetsLists-17"
                   }
                 ]
               },
@@ -4526,7 +4363,7 @@
                 "widgets": [
                   {
                     "key": "rnb9i",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -4542,8 +4379,7 @@
                 "widgets": [
                   {
                     "key": "v7243h",
-                    "type": "WIDGET",
-                    "name": "List20"
+                    "name": "WidgetsLists-20"
                   }
                 ]
               },
@@ -4553,7 +4389,7 @@
                 "widgets": [
                   {
                     "key": "oa3bon",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -4569,8 +4405,7 @@
                 "widgets": [
                   {
                     "key": "7gw9re",
-                    "type": "WIDGET",
-                    "name": "List25"
+                    "name": "WidgetsLists-25"
                   }
                 ]
               },
@@ -4580,7 +4415,7 @@
                 "widgets": [
                   {
                     "key": "c95rey",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -4596,8 +4431,7 @@
                 "widgets": [
                   {
                     "key": "43mat6",
-                    "type": "WIDGET",
-                    "name": "List28"
+                    "name": "WidgetsLists-28"
                   }
                 ]
               }
@@ -4613,7 +4447,7 @@
                 "widgets": [
                   {
                     "key": "93gsyv",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -4629,8 +4463,7 @@
                 "widgets": [
                   {
                     "key": "a3as0d",
-                    "type": "WIDGET",
-                    "name": "List2",
+                    "name": "WidgetsLists-2",
                     "wrapper": false
                   }
                 ]
@@ -4641,7 +4474,7 @@
                 "widgets": [
                   {
                     "key": "uoywg",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -4657,8 +4490,7 @@
                 "widgets": [
                   {
                     "key": "e7l5pa",
-                    "type": "WIDGET",
-                    "name": "List6"
+                    "name": "WidgetsLists-6"
                   }
                 ]
               },
@@ -4668,7 +4500,7 @@
                 "widgets": [
                   {
                     "key": "onzgvf",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -4684,8 +4516,7 @@
                 "widgets": [
                   {
                     "key": "snkcik",
-                    "type": "WIDGET",
-                    "name": "List9"
+                    "name": "WidgetsLists-9"
                   }
                 ]
               },
@@ -4695,7 +4526,7 @@
                 "widgets": [
                   {
                     "key": "mi9zqs",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -4711,8 +4542,7 @@
                 "widgets": [
                   {
                     "key": "n4ztcu",
-                    "type": "WIDGET",
-                    "name": "List12"
+                    "name": "WidgetsLists-12"
                   }
                 ]
               },
@@ -4722,7 +4552,7 @@
                 "widgets": [
                   {
                     "key": "s4wcx",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -4738,8 +4568,7 @@
                 "widgets": [
                   {
                     "key": "aqa5w",
-                    "type": "WIDGET",
-                    "name": "List15"
+                    "name": "WidgetsLists-15"
                   }
                 ]
               },
@@ -4749,7 +4578,7 @@
                 "widgets": [
                   {
                     "key": "ofcrlc",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -4765,8 +4594,7 @@
                 "widgets": [
                   {
                     "key": "u1ctv4",
-                    "type": "WIDGET",
-                    "name": "List19"
+                    "name": "WidgetsLists-19"
                   }
                 ]
               },
@@ -4776,7 +4604,7 @@
                 "widgets": [
                   {
                     "key": "bz9bzz",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -4792,8 +4620,7 @@
                 "widgets": [
                   {
                     "key": "e7hwj",
-                    "type": "WIDGET",
-                    "name": "List22"
+                    "name": "WidgetsLists-22"
                   }
                 ]
               },
@@ -4803,7 +4630,7 @@
                 "widgets": [
                   {
                     "key": "p7gxv",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -4819,8 +4646,7 @@
                 "widgets": [
                   {
                     "key": "hiqoj",
-                    "type": "WIDGET",
-                    "name": "List26"
+                    "name": "WidgetsLists-26"
                   }
                 ]
               },
@@ -4830,7 +4656,7 @@
                 "widgets": [
                   {
                     "key": "agi54",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -4846,8 +4672,7 @@
                 "widgets": [
                   {
                     "key": "jerdp3",
-                    "type": "WIDGET",
-                    "name": "List27"
+                    "name": "WidgetsLists-27"
                   }
                 ]
               }
@@ -4863,7 +4688,7 @@
                 "widgets": [
                   {
                     "key": "rv315",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -4879,8 +4704,7 @@
                 "widgets": [
                   {
                     "key": "su7t2t",
-                    "type": "WIDGET",
-                    "name": "List3"
+                    "name": "WidgetsLists-3"
                   }
                 ]
               },
@@ -4890,7 +4714,7 @@
                 "widgets": [
                   {
                     "key": "6dxa6e",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -4906,8 +4730,7 @@
                 "widgets": [
                   {
                     "key": "nronz",
-                    "type": "WIDGET",
-                    "name": "List4"
+                    "name": "WidgetsLists-4"
                   }
                 ]
               },
@@ -4917,7 +4740,7 @@
                 "widgets": [
                   {
                     "key": "sk5m6",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -4933,8 +4756,7 @@
                 "widgets": [
                   {
                     "key": "sghmu",
-                    "type": "WIDGET",
-                    "name": "List7"
+                    "name": "WidgetsLists-7"
                   }
                 ]
               },
@@ -4944,7 +4766,7 @@
                 "widgets": [
                   {
                     "key": "g7xp9e",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -4960,8 +4782,7 @@
                 "widgets": [
                   {
                     "key": "vyx63h",
-                    "type": "WIDGET",
-                    "name": "List10"
+                    "name": "WidgetsLists-10"
                   }
                 ]
               },
@@ -4971,7 +4792,7 @@
                 "widgets": [
                   {
                     "key": "s0bpps",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -4987,8 +4808,7 @@
                 "widgets": [
                   {
                     "key": "dh62z",
-                    "type": "WIDGET",
-                    "name": "List13"
+                    "name": "WidgetsLists-13"
                   }
                 ]
               },
@@ -4998,7 +4818,7 @@
                 "widgets": [
                   {
                     "key": "5wvz0k",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -5014,8 +4834,7 @@
                 "widgets": [
                   {
                     "key": "u29tlc",
-                    "type": "WIDGET",
-                    "name": "List16"
+                    "name": "WidgetsLists-16"
                   }
                 ]
               },
@@ -5025,7 +4844,7 @@
                 "widgets": [
                   {
                     "key": "28tosp",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -5041,8 +4860,7 @@
                 "widgets": [
                   {
                     "key": "4j57n",
-                    "type": "WIDGET",
-                    "name": "List18"
+                    "name": "WidgetsLists-18"
                   }
                 ]
               },
@@ -5052,7 +4870,7 @@
                 "widgets": [
                   {
                     "key": "pnv4bn",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -5068,8 +4886,7 @@
                 "widgets": [
                   {
                     "key": "43uqyd",
-                    "type": "WIDGET",
-                    "name": "List23"
+                    "name": "WidgetsLists-23"
                   }
                 ]
               },
@@ -5079,7 +4896,7 @@
                 "widgets": [
                   {
                     "key": "ev41c2",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -5095,8 +4912,7 @@
                 "widgets": [
                   {
                     "key": "dqn8m",
-                    "type": "WIDGET",
-                    "name": "List24"
+                    "name": "WidgetsLists-24"
                   }
                 ]
               }
@@ -5117,7 +4933,7 @@
                 "widgets": [
                   {
                     "key": "l2l1s",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -5133,8 +4949,7 @@
                 "widgets": [
                   {
                     "key": "e2jqtj",
-                    "type": "WIDGET",
-                    "name": "List21",
+                    "name": "WidgetsLists-21",
                     "wrapper": false
                   }
                 ]
@@ -5151,7 +4966,7 @@
                 "widgets": [
                   {
                     "key": "k1pfi",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -5167,8 +4982,7 @@
                 "widgets": [
                   {
                     "key": "vx4p",
-                    "type": "WIDGET",
-                    "name": "List21v1",
+                    "name": "WidgetsLists-21v1",
                     "wrapper": false
                   }
                 ]
@@ -5185,7 +4999,7 @@
                 "widgets": [
                   {
                     "key": "agkgn",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -5201,8 +5015,7 @@
                 "widgets": [
                   {
                     "key": "enpeu",
-                    "type": "WIDGET",
-                    "name": "List21v2",
+                    "name": "WidgetsLists-21v2",
                     "wrapper": false
                   }
                 ]
@@ -5226,8 +5039,7 @@
                 "widgets": [
                   {
                     "key": "ukl62a",
-                    "type": "WIDGET",
-                    "name": "AppGithubDescr"
+                    "name": "AppPartials-GithubDescr"
                   }
                 ]
               },
@@ -5237,8 +5049,7 @@
                 "widgets": [
                   {
                     "key": "kku16d",
-                    "type": "WIDGET",
-                    "name": "TablesBootstrap1"
+                    "name": "TablesBootstrap-1"
                   }
                 ]
               }
@@ -5261,13 +5072,11 @@
                 "widgets": [
                   {
                     "key": "jmo2c",
-                    "type": "WIDGET",
-                    "name": "AppGithubHead"
+                    "name": "AppPartials-GithubHead"
                   },
                   {
                     "key": "bcx7a",
-                    "type": "WIDGET",
-                    "name": "AppGithubHeadIssue"
+                    "name": "AppPartials-GithubHeadIssue"
                   }
                 ]
               }
@@ -5288,13 +5097,11 @@
                 "widgets": [
                   {
                     "key": "r1pnns",
-                    "type": "WIDGET",
-                    "name": "AppGithubDiscuss"
+                    "name": "AppPartials-GithubDiscuss"
                   },
                   {
                     "key": "yoxtlh",
-                    "type": "WIDGET",
-                    "name": "AppGithubWrite"
+                    "name": "AppPartials-GithubWrite"
                   }
                 ]
               }
@@ -5310,8 +5117,7 @@
                 "widgets": [
                   {
                     "key": "2zspf9",
-                    "type": "WIDGET",
-                    "name": "List25"
+                    "name": "WidgetsLists-25"
                   }
                 ]
               }
@@ -5334,8 +5140,7 @@
                 "widgets": [
                   {
                     "key": "psxsc8",
-                    "type": "WIDGET",
-                    "name": "AppDoHead"
+                    "name": "AppPartials-DoHead"
                   }
                 ]
               }
@@ -5356,8 +5161,7 @@
                 "widgets": [
                   {
                     "key": "818c5p",
-                    "type": "WIDGET",
-                    "name": "Chart4"
+                    "name": "WidgetsCharts-4"
                   }
                 ]
               }
@@ -5373,8 +5177,7 @@
                 "widgets": [
                   {
                     "key": "6fuyda",
-                    "type": "WIDGET",
-                    "name": "Chart4v3"
+                    "name": "WidgetsCharts-4v3"
                   }
                 ]
               }
@@ -5390,8 +5193,7 @@
                 "widgets": [
                   {
                     "key": "ec42z",
-                    "type": "WIDGET",
-                    "name": "Chart4v1"
+                    "name": "WidgetsCharts-4v1"
                   }
                 ]
               }
@@ -5412,7 +5214,7 @@
                 "widgets": [
                   {
                     "key": "fjyu4c",
-                    "name": "Heading",
+                    "name": "Headers-Heading",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -5439,8 +5241,7 @@
                 "widgets": [
                   {
                     "key": "w1maeg",
-                    "type": "WIDGET",
-                    "name": "AppDoServer"
+                    "name": "AppPartials-DoServer"
                   }
                 ]
               },
@@ -5450,8 +5251,7 @@
                 "widgets": [
                   {
                     "key": "h5e70b",
-                    "type": "WIDGET",
-                    "name": "AppDoServer"
+                    "name": "AppPartials-DoServer"
                   }
                 ]
               }
@@ -5472,7 +5272,7 @@
                 "widgets": [
                   {
                     "key": "cd41eb",
-                    "name": "Heading",
+                    "name": "Headers-Heading",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -5499,8 +5299,7 @@
                 "widgets": [
                   {
                     "key": "gq9rk",
-                    "type": "WIDGET",
-                    "name": "List8"
+                    "name": "WidgetsLists-8"
                   }
                 ]
               }
@@ -5516,8 +5315,7 @@
                 "widgets": [
                   {
                     "key": "48upkh",
-                    "type": "WIDGET",
-                    "name": "List6"
+                    "name": "WidgetsLists-6"
                   }
                 ]
               }
@@ -5533,8 +5331,7 @@
                 "widgets": [
                   {
                     "key": "8py91e",
-                    "type": "WIDGET",
-                    "name": "List5"
+                    "name": "WidgetsLists-5"
                   }
                 ]
               }
@@ -5557,8 +5354,7 @@
                 "widgets": [
                   {
                     "key": "rwa9q",
-                    "type": "WIDGET",
-                    "name": "AppDoHead"
+                    "name": "AppPartials-DoHead"
                   }
                 ]
               }
@@ -5579,7 +5375,7 @@
                 "widgets": [
                   {
                     "key": "ecdozoh",
-                    "name": "Heading",
+                    "name": "Headers-Heading",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -5606,8 +5402,7 @@
                 "widgets": [
                   {
                     "key": "l76gmt8",
-                    "type": "WIDGET",
-                    "name": "AppDoImage"
+                    "name": "AppPartials-DoImage"
                   }
                 ]
               }
@@ -5628,7 +5423,7 @@
                 "widgets": [
                   {
                     "key": "m21fr",
-                    "name": "Heading",
+                    "name": "Headers-Heading",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -5655,13 +5450,11 @@
                 "widgets": [
                   {
                     "key": "1p80gh",
-                    "type": "WIDGET",
-                    "name": "AppDoPlan"
+                    "name": "AppPartials-DoPlan"
                   },
                   {
                     "key": "4hd4ym",
-                    "type": "WIDGET",
-                    "name": "Typography2"
+                    "name": "Typography-2"
                   }
                 ]
               },
@@ -5671,7 +5464,7 @@
                 "widgets": [
                   {
                     "key": "dpni8",
-                    "name": "Button3",
+                    "name": "Controls-Button3",
                     "editable": true,
                     "dataType": "object",
                     "data": {
@@ -5701,7 +5494,7 @@
                 "widgets": [
                   {
                     "key": "f6x6n",
-                    "name": "CardHeader",
+                    "name": "Headers-CardHeader",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -5717,8 +5510,7 @@
                 "widgets": [
                   {
                     "key": "gkozub",
-                    "type": "WIDGET",
-                    "name": "Chart2",
+                    "name": "WidgetsCharts-2",
                     "wrapper": false
                   }
                 ]
@@ -5735,7 +5527,7 @@
                 "widgets": [
                   {
                     "key": "1jr9yp",
-                    "name": "CardHeader",
+                    "name": "Headers-CardHeader",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -5751,8 +5543,7 @@
                 "widgets": [
                   {
                     "key": "3ysam4",
-                    "type": "WIDGET",
-                    "name": "List20"
+                    "name": "WidgetsLists-20"
                   }
                 ]
               }
@@ -5773,8 +5564,7 @@
                 "widgets": [
                   {
                     "key": "5zcv3v",
-                    "type": "WIDGET",
-                    "name": "Chart9"
+                    "name": "WidgetsCharts-9"
                   }
                 ]
               },
@@ -5784,7 +5574,7 @@
                 "widgets": [
                   {
                     "key": "axsm3m",
-                    "name": "CardHeader",
+                    "name": "Headers-CardHeader",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -5800,8 +5590,7 @@
                 "widgets": [
                   {
                     "key": "u0vr1r",
-                    "type": "WIDGET",
-                    "name": "Chart5"
+                    "name": "WidgetsCharts-5"
                   }
                 ]
               }
@@ -5817,8 +5606,7 @@
                 "widgets": [
                   {
                     "key": "hx5zi",
-                    "type": "WIDGET",
-                    "name": "Chart10"
+                    "name": "WidgetsCharts-10"
                   }
                 ]
               },
@@ -5828,7 +5616,7 @@
                 "widgets": [
                   {
                     "key": "55tblo",
-                    "name": "CardHeader",
+                    "name": "Headers-CardHeader",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -5844,8 +5632,7 @@
                 "widgets": [
                   {
                     "key": "dylhus",
-                    "type": "WIDGET",
-                    "name": "Chart1"
+                    "name": "WidgetsCharts-1"
                   }
                 ]
               }
@@ -5861,8 +5648,7 @@
                 "widgets": [
                   {
                     "key": "9kxruo",
-                    "type": "WIDGET",
-                    "name": "List16"
+                    "name": "WidgetsLists-16"
                   }
                 ]
               }
@@ -5885,8 +5671,7 @@
                 "widgets": [
                   {
                     "key": "vxn5ie",
-                    "type": "WIDGET",
-                    "name": "AppWpPost"
+                    "name": "AppPartials-WpPost"
                   }
                 ]
               },
@@ -5896,8 +5681,7 @@
                 "widgets": [
                   {
                     "key": "h6r8y",
-                    "type": "WIDGET",
-                    "name": "General15"
+                    "name": "WidgetsGeneral-15"
                   }
                 ]
               },
@@ -5907,8 +5691,7 @@
                 "widgets": [
                   {
                     "key": "v2tn78",
-                    "type": "WIDGET",
-                    "name": "AppWpWrite"
+                    "name": "AppPartials-WpWrite"
                   }
                 ]
               }
@@ -5924,8 +5707,7 @@
                 "widgets": [
                   {
                     "key": "n2mz1r",
-                    "type": "WIDGET",
-                    "name": "List28"
+                    "name": "WidgetsLists-28"
                   }
                 ]
               },
@@ -5935,8 +5717,7 @@
                 "widgets": [
                   {
                     "key": "0f06no",
-                    "type": "WIDGET",
-                    "name": "List4"
+                    "name": "WidgetsLists-4"
                   }
                 ]
               }
@@ -5959,8 +5740,7 @@
                 "widgets": [
                   {
                     "key": "xmdsyj",
-                    "type": "WIDGET",
-                    "name": "AppWpPostShort"
+                    "name": "AppPartials-WpPostShort"
                   }
                 ]
               },
@@ -5970,8 +5750,7 @@
                 "widgets": [
                   {
                     "key": "g7xc2",
-                    "type": "WIDGET",
-                    "name": "AppWpPostShort"
+                    "name": "AppPartials-WpPostShort"
                   }
                 ]
               },
@@ -5981,8 +5760,7 @@
                 "widgets": [
                   {
                     "key": "9jahc",
-                    "type": "WIDGET",
-                    "name": "Pagination"
+                    "name": "Controls-Pagination"
                   }
                 ]
               }
@@ -5998,8 +5776,7 @@
                 "widgets": [
                   {
                     "key": "h02aje",
-                    "type": "WIDGET",
-                    "name": "List28"
+                    "name": "WidgetsLists-28"
                   }
                 ]
               },
@@ -6009,8 +5786,7 @@
                 "widgets": [
                   {
                     "key": "w2mlwp",
-                    "type": "WIDGET",
-                    "name": "List4"
+                    "name": "WidgetsLists-4"
                   }
                 ]
               }
@@ -6033,8 +5809,7 @@
                 "widgets": [
                   {
                     "key": "jykgjl",
-                    "type": "WIDGET",
-                    "name": "Form5"
+                    "name": "Forms-5"
                   }
                 ]
               }
@@ -6057,8 +5832,7 @@
                 "widgets": [
                   {
                     "key": "r6woi4",
-                    "type": "WIDGET",
-                    "name": "List24"
+                    "name": "WidgetsLists-24"
                   }
                 ]
               }
@@ -6074,7 +5848,7 @@
                 "widgets": [
                   {
                     "key": "v4tf9",
-                    "name": "CardHeader3",
+                    "name": "Headers-CardHeader3",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header py-0",
@@ -6084,12 +5858,11 @@
                   },
                   {
                     "key": "z5nh1j",
-                    "type": "WIDGET",
-                    "name": "List26"
+                    "name": "WidgetsLists-26"
                   },
                   {
                     "key": "kqpq",
-                    "name": "Button",
+                    "name": "Controls-Button",
                     "editable": true,
                     "dataType": "object",
                     "data": {
@@ -6099,8 +5872,7 @@
                   },
                   {
                     "key": "pahrix",
-                    "type": "WIDGET",
-                    "name": "Typography2"
+                    "name": "Typography-2"
                   }
                 ]
               },
@@ -6110,7 +5882,7 @@
                 "widgets": [
                   {
                     "key": "8blpho",
-                    "name": "CardHeader",
+                    "name": "Headers-CardHeader",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header",
@@ -6120,8 +5892,7 @@
                   },
                   {
                     "key": "1tpvxs",
-                    "type": "WIDGET",
-                    "name": "List27"
+                    "name": "WidgetsLists-27"
                   }
                 ]
               },
@@ -6131,8 +5902,7 @@
                 "widgets": [
                   {
                     "key": "9zgg1v",
-                    "type": "WIDGET",
-                    "name": "Table6"
+                    "name": "WidgetsTables-6"
                   }
                 ]
               }
@@ -6155,8 +5925,7 @@
                 "widgets": [
                   {
                     "key": "63g6pw",
-                    "type": "WIDGET",
-                    "name": "AppJiraAgileBoard"
+                    "name": "AppPartials-JiraAgileBoard"
                   }
                 ]
               }
@@ -6179,7 +5948,7 @@
                 "widgets": [
                   {
                     "key": "g9g3m",
-                    "name": "CardHeader2",
+                    "name": "Headers-CardHeader2",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header py-0",
@@ -6189,7 +5958,7 @@
                   },
                   {
                     "key": "bsdtcg",
-                    "name": "Button2",
+                    "name": "Controls-Button2",
                     "editable": true,
                     "dataType": "object",
                     "data": {
@@ -6200,8 +5969,7 @@
                   },
                   {
                     "key": "g0hpt",
-                    "type": "WIDGET",
-                    "name": "Typography2"
+                    "name": "Typography-2"
                   }
                 ]
               },
@@ -6211,7 +5979,7 @@
                 "widgets": [
                   {
                     "key": "7q8vf9",
-                    "name": "CardHeader2",
+                    "name": "Headers-CardHeader2",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header py-0",
@@ -6221,8 +5989,7 @@
                   },
                   {
                     "key": "39e8gx",
-                    "type": "WIDGET",
-                    "name": "General1"
+                    "name": "WidgetsGeneral-1"
                   }
                 ]
               },
@@ -6232,8 +5999,7 @@
                 "widgets": [
                   {
                     "key": "ei0szq",
-                    "type": "WIDGET",
-                    "name": "General6",
+                    "name": "WidgetsGeneral-6",
                     "wrapper": false
                   }
                 ]
@@ -6244,8 +6010,7 @@
                 "widgets": [
                   {
                     "key": "pb2ap",
-                    "type": "WIDGET",
-                    "name": "General6v1",
+                    "name": "WidgetsGeneral-6v1",
                     "wrapper": false
                   }
                 ]
@@ -6262,7 +6027,7 @@
                 "widgets": [
                   {
                     "key": "1ypsqv",
-                    "name": "CardHeader2",
+                    "name": "Headers-CardHeader2",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header py-0",
@@ -6272,8 +6037,7 @@
                   },
                   {
                     "key": "6is3v",
-                    "type": "WIDGET",
-                    "name": "Placeholder"
+                    "name": "Placeholders-1"
                   }
                 ]
               },
@@ -6283,7 +6047,7 @@
                 "widgets": [
                   {
                     "key": "3ae5a",
-                    "name": "CardHeader2",
+                    "name": "Headers-CardHeader2",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header py-0",
@@ -6293,8 +6057,7 @@
                   },
                   {
                     "key": "6vktzn",
-                    "type": "WIDGET",
-                    "name": "List11"
+                    "name": "WidgetsLists-11"
                   }
                 ]
               },
@@ -6304,7 +6067,7 @@
                 "widgets": [
                   {
                     "key": "n7g36i",
-                    "name": "CardHeader2",
+                    "name": "Headers-CardHeader2",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": "card-header py-0",
@@ -6314,8 +6077,7 @@
                   },
                   {
                     "key": "e6sjjk",
-                    "type": "WIDGET",
-                    "name": "Table1"
+                    "name": "WidgetsTables-1"
                   }
                 ]
               }
@@ -6338,8 +6100,7 @@
                 "widgets": [
                   {
                     "key": "e24cb",
-                    "type": "WIDGET",
-                    "name": "General2"
+                    "name": "WidgetsGeneral-2"
                   }
                 ]
               }
@@ -6355,8 +6116,7 @@
                 "widgets": [
                   {
                     "key": "8a5r7w",
-                    "type": "WIDGET",
-                    "name": "General2v1"
+                    "name": "WidgetsGeneral-2v1"
                   }
                 ]
               }
@@ -6372,8 +6132,7 @@
                 "widgets": [
                   {
                     "key": "b2uflq",
-                    "type": "WIDGET",
-                    "name": "General2v2"
+                    "name": "WidgetsGeneral-2v2"
                   }
                 ]
               }
@@ -6394,8 +6153,7 @@
                 "widgets": [
                   {
                     "key": "w1dbng",
-                    "type": "WIDGET",
-                    "name": "List20"
+                    "name": "WidgetsLists-20"
                   }
                 ]
               }
@@ -6411,8 +6169,7 @@
                 "widgets": [
                   {
                     "key": "g4lpa2",
-                    "type": "WIDGET",
-                    "name": "Table4"
+                    "name": "WidgetsTables-4"
                   }
                 ]
               }
@@ -6433,8 +6190,7 @@
                 "widgets": [
                   {
                     "key": "v8j0lj",
-                    "type": "WIDGET",
-                    "name": "Table7"
+                    "name": "WidgetsTables-7"
                   }
                 ]
               }
@@ -6457,7 +6213,7 @@
                 "widgets": [
                   {
                     "key": "lu0463",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -6473,8 +6229,7 @@
                 "widgets": [
                   {
                     "key": "6cceej",
-                    "type": "WIDGET",
-                    "name": "Chart1"
+                    "name": "WidgetsCharts-1"
                   }
                 ]
               },
@@ -6484,7 +6239,7 @@
                 "widgets": [
                   {
                     "key": "ls0sgn",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -6500,8 +6255,7 @@
                 "widgets": [
                   {
                     "key": "qlh8z",
-                    "type": "WIDGET",
-                    "name": "Chart2",
+                    "name": "WidgetsCharts-2",
                     "wrapper": false
                   }
                 ]
@@ -6518,7 +6272,7 @@
                 "widgets": [
                   {
                     "key": "yklkhe",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -6534,8 +6288,7 @@
                 "widgets": [
                   {
                     "key": "9fi3nr",
-                    "type": "WIDGET",
-                    "name": "Chart9"
+                    "name": "WidgetsCharts-9"
                   }
                 ]
               },
@@ -6545,7 +6298,7 @@
                 "widgets": [
                   {
                     "key": "zdrpr",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -6561,8 +6314,7 @@
                 "widgets": [
                   {
                     "key": "ar6y5o",
-                    "type": "WIDGET",
-                    "name": "Chart5"
+                    "name": "WidgetsCharts-5"
                   }
                 ]
               }
@@ -6578,7 +6330,7 @@
                 "widgets": [
                   {
                     "key": "dcmp1t",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -6594,8 +6346,7 @@
                 "widgets": [
                   {
                     "key": "xmi4d6",
-                    "type": "WIDGET",
-                    "name": "Chart10"
+                    "name": "WidgetsCharts-10"
                   }
                 ]
               },
@@ -6605,7 +6356,7 @@
                 "widgets": [
                   {
                     "key": "1s5rje",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -6621,8 +6372,7 @@
                 "widgets": [
                   {
                     "key": "fd69hq",
-                    "type": "WIDGET",
-                    "name": "Chart6",
+                    "name": "WidgetsCharts-6",
                     "wrapper": false
                   }
                 ]
@@ -6644,7 +6394,7 @@
                 "widgets": [
                   {
                     "key": "lvb5hc",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -6660,8 +6410,7 @@
                 "widgets": [
                   {
                     "key": "sjg5mw",
-                    "type": "WIDGET",
-                    "name": "Chart4"
+                    "name": "WidgetsCharts-4"
                   }
                 ]
               },
@@ -6671,7 +6420,7 @@
                 "widgets": [
                   {
                     "key": "dt6au9",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -6687,8 +6436,7 @@
                 "widgets": [
                   {
                     "key": "awv31f",
-                    "type": "WIDGET",
-                    "name": "Chart4v2"
+                    "name": "WidgetsCharts-4v2"
                   }
                 ]
               }
@@ -6704,7 +6452,7 @@
                 "widgets": [
                   {
                     "key": "v14pxv",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -6720,8 +6468,7 @@
                 "widgets": [
                   {
                     "key": "jv20cm",
-                    "type": "WIDGET",
-                    "name": "Chart4v1"
+                    "name": "WidgetsCharts-4v1"
                   }
                 ]
               },
@@ -6731,7 +6478,7 @@
                 "widgets": [
                   {
                     "key": "l4qfym",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -6747,8 +6494,7 @@
                 "widgets": [
                   {
                     "key": "i9c2r",
-                    "type": "WIDGET",
-                    "name": "Chart4v3"
+                    "name": "WidgetsCharts-4v3"
                   }
                 ]
               }
@@ -6764,7 +6510,7 @@
                 "widgets": [
                   {
                     "key": "t5e604",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -6780,8 +6526,7 @@
                 "widgets": [
                   {
                     "key": "n4n9fh",
-                    "type": "WIDGET",
-                    "name": "Chart7"
+                    "name": "WidgetsCharts-7"
                   }
                 ]
               }
@@ -6802,7 +6547,7 @@
                 "widgets": [
                   {
                     "key": "za6boh",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -6818,8 +6563,7 @@
                 "widgets": [
                   {
                     "key": "ehy9mg",
-                    "type": "WIDGET",
-                    "name": "Chart3"
+                    "name": "WidgetsCharts-3"
                   }
                 ]
               }
@@ -6835,7 +6579,7 @@
                 "widgets": [
                   {
                     "key": "i2c7nl",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -6851,8 +6595,7 @@
                 "widgets": [
                   {
                     "key": "1g7m",
-                    "type": "WIDGET",
-                    "name": "Chart8"
+                    "name": "WidgetsCharts-8"
                   }
                 ]
               }
@@ -6873,7 +6616,7 @@
                 "widgets": [
                   {
                     "key": "gwpqg",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -6889,8 +6632,7 @@
                 "widgets": [
                   {
                     "key": "rb9sdn",
-                    "type": "WIDGET",
-                    "name": "Chart11",
+                    "name": "WidgetsCharts-11",
                     "wrapper": false
                   }
                 ]
@@ -6907,7 +6649,7 @@
                 "widgets": [
                   {
                     "key": "vh6qra",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -6923,8 +6665,7 @@
                 "widgets": [
                   {
                     "key": "2recqs",
-                    "type": "WIDGET",
-                    "name": "Chart11v1",
+                    "name": "WidgetsCharts-11v1",
                     "wrapper": false
                   }
                 ]
@@ -6941,7 +6682,7 @@
                 "widgets": [
                   {
                     "key": "blikeu",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -6957,8 +6698,7 @@
                 "widgets": [
                   {
                     "key": "65rknt",
-                    "type": "WIDGET",
-                    "name": "Chart11v2",
+                    "name": "WidgetsCharts-11v2",
                     "wrapper": false
                   }
                 ]
@@ -6980,7 +6720,7 @@
                 "widgets": [
                   {
                     "key": "yzix1",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -6996,8 +6736,7 @@
                 "widgets": [
                   {
                     "key": "l3obq9",
-                    "type": "WIDGET",
-                    "name": "Chart12"
+                    "name": "WidgetsCharts-12"
                   }
                 ]
               }
@@ -7013,7 +6752,7 @@
                 "widgets": [
                   {
                     "key": "1iqgr5",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -7029,8 +6768,7 @@
                 "widgets": [
                   {
                     "key": "dyzta8",
-                    "type": "WIDGET",
-                    "name": "Chart12v1"
+                    "name": "WidgetsCharts-12v1"
                   }
                 ]
               }
@@ -7051,7 +6789,7 @@
                 "widgets": [
                   {
                     "key": "gdpw5r",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -7067,8 +6805,7 @@
                 "widgets": [
                   {
                     "key": "0dj63",
-                    "type": "WIDGET",
-                    "name": "Chart13",
+                    "name": "WidgetsCharts-13",
                     "wrapper": false
                   }
                 ]
@@ -7085,7 +6822,7 @@
                 "widgets": [
                   {
                     "key": "jwbapp",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -7101,8 +6838,7 @@
                 "widgets": [
                   {
                     "key": "78w62m",
-                    "type": "WIDGET",
-                    "name": "Chart13v1",
+                    "name": "WidgetsCharts-13v1",
                     "wrapper": false
                   }
                 ]
@@ -7119,7 +6855,7 @@
                 "widgets": [
                   {
                     "key": "9q2868",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -7135,8 +6871,7 @@
                 "widgets": [
                   {
                     "key": "26llmw",
-                    "type": "WIDGET",
-                    "name": "Chart13v2",
+                    "name": "WidgetsCharts-13v2",
                     "wrapper": false
                   }
                 ]
@@ -7160,7 +6895,7 @@
                 "widgets": [
                   {
                     "key": "r5n3oi",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -7176,8 +6911,7 @@
                 "widgets": [
                   {
                     "key": "d2bqpn",
-                    "type": "WIDGET",
-                    "name": "General14"
+                    "name": "WidgetsGeneral-14"
                   }
                 ]
               },
@@ -7187,7 +6921,7 @@
                 "widgets": [
                   {
                     "key": "5k66u8",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -7203,8 +6937,7 @@
                 "widgets": [
                   {
                     "key": "dgzuar",
-                    "type": "WIDGET",
-                    "name": "General12"
+                    "name": "WidgetsGeneral-12"
                   }
                 ]
               },
@@ -7214,7 +6947,7 @@
                 "widgets": [
                   {
                     "key": "bavfc",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -7230,8 +6963,7 @@
                 "widgets": [
                   {
                     "key": "dm479",
-                    "type": "WIDGET",
-                    "name": "General12v1",
+                    "name": "WidgetsGeneral-12v1",
                     "wrapper": "card-body text-white bg-primary rounded"
                   }
                 ]
@@ -7242,7 +6974,7 @@
                 "widgets": [
                   {
                     "key": "irlnh",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -7258,8 +6990,7 @@
                 "widgets": [
                   {
                     "key": "42pzc",
-                    "type": "WIDGET",
-                    "name": "General12v2"
+                    "name": "WidgetsGeneral-12v2"
                   }
                 ]
               },
@@ -7269,7 +7000,7 @@
                 "widgets": [
                   {
                     "key": "1pvum",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -7285,8 +7016,7 @@
                 "widgets": [
                   {
                     "key": "eib8lu",
-                    "type": "WIDGET",
-                    "name": "General12v3"
+                    "name": "WidgetsGeneral-12v3"
                   }
                 ]
               },
@@ -7296,7 +7026,7 @@
                 "widgets": [
                   {
                     "key": "gxfhy9",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -7312,8 +7042,7 @@
                 "widgets": [
                   {
                     "key": "4cgq77",
-                    "type": "WIDGET",
-                    "name": "General13",
+                    "name": "WidgetsGeneral-13",
                     "wrapper": false
                   }
                 ]
@@ -7324,7 +7053,7 @@
                 "widgets": [
                   {
                     "key": "q3l9g5",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -7340,8 +7069,7 @@
                 "widgets": [
                   {
                     "key": "cmt1jt",
-                    "type": "WIDGET",
-                    "name": "General13v1",
+                    "name": "WidgetsGeneral-13v1",
                     "wrapper": false
                   }
                 ]
@@ -7358,7 +7086,7 @@
                 "widgets": [
                   {
                     "key": "h2cut",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -7374,8 +7102,7 @@
                 "widgets": [
                   {
                     "key": "qy7i4c",
-                    "type": "WIDGET",
-                    "name": "General1"
+                    "name": "WidgetsGeneral-1"
                   }
                 ]
               },
@@ -7385,7 +7112,7 @@
                 "widgets": [
                   {
                     "key": "uaj2b1",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -7401,8 +7128,7 @@
                 "widgets": [
                   {
                     "key": "3fugmj",
-                    "type": "WIDGET",
-                    "name": "General1v1"
+                    "name": "WidgetsGeneral-1v1"
                   }
                 ]
               },
@@ -7412,7 +7138,7 @@
                 "widgets": [
                   {
                     "key": "qnie8",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -7428,8 +7154,7 @@
                 "widgets": [
                   {
                     "key": "fl2eut",
-                    "type": "WIDGET",
-                    "name": "General9"
+                    "name": "WidgetsGeneral-9"
                   }
                 ]
               },
@@ -7439,7 +7164,7 @@
                 "widgets": [
                   {
                     "key": "zfqho8",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -7455,8 +7180,7 @@
                 "widgets": [
                   {
                     "key": "5plza9",
-                    "type": "WIDGET",
-                    "name": "General10"
+                    "name": "WidgetsGeneral-10"
                   }
                 ]
               },
@@ -7466,7 +7190,7 @@
                 "widgets": [
                   {
                     "key": "0z0wab",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -7482,8 +7206,7 @@
                 "widgets": [
                   {
                     "key": "8gj6lf",
-                    "type": "WIDGET",
-                    "name": "General10v1"
+                    "name": "WidgetsGeneral-10v1"
                   }
                 ]
               },
@@ -7493,7 +7216,7 @@
                 "widgets": [
                   {
                     "key": "jbd3lo",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -7509,8 +7232,7 @@
                 "widgets": [
                   {
                     "key": "r1x6wa",
-                    "type": "WIDGET",
-                    "name": "General5v1"
+                    "name": "WidgetsGeneral-5v1"
                   }
                 ]
               },
@@ -7520,7 +7242,7 @@
                 "widgets": [
                   {
                     "key": "6y4hto",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -7536,8 +7258,7 @@
                 "widgets": [
                   {
                     "key": "fid9t",
-                    "type": "WIDGET",
-                    "name": "General11",
+                    "name": "WidgetsGeneral-11",
                     "wrapper": false
                   }
                 ]
@@ -7548,7 +7269,7 @@
                 "widgets": [
                   {
                     "key": "tvoat",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -7564,8 +7285,7 @@
                 "widgets": [
                   {
                     "key": "30kesf",
-                    "type": "WIDGET",
-                    "name": "General11v1",
+                    "name": "WidgetsGeneral-11v1",
                     "wrapper": false
                   }
                 ]
@@ -7582,7 +7302,7 @@
                 "widgets": [
                   {
                     "key": "sfnpev",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -7598,8 +7318,7 @@
                 "widgets": [
                   {
                     "key": "j5af3e",
-                    "type": "WIDGET",
-                    "name": "General2"
+                    "name": "WidgetsGeneral-2"
                   }
                 ]
               },
@@ -7609,7 +7328,7 @@
                 "widgets": [
                   {
                     "key": "8vknme",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -7625,8 +7344,7 @@
                 "widgets": [
                   {
                     "key": "wmr98v",
-                    "type": "WIDGET",
-                    "name": "General2v1"
+                    "name": "WidgetsGeneral-2v1"
                   }
                 ]
               },
@@ -7636,7 +7354,7 @@
                 "widgets": [
                   {
                     "key": "34efgs",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -7652,8 +7370,7 @@
                 "widgets": [
                   {
                     "key": "oc3shkb",
-                    "type": "WIDGET",
-                    "name": "General2v2"
+                    "name": "WidgetsGeneral-2v2"
                   }
                 ]
               },
@@ -7663,7 +7380,7 @@
                 "widgets": [
                   {
                     "key": "xe2x4d",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -7679,8 +7396,7 @@
                 "widgets": [
                   {
                     "key": "odbb9",
-                    "type": "WIDGET",
-                    "name": "General2v3",
+                    "name": "WidgetsGeneral-2v3",
                     "wrapper": "card-body text-white bg-success rounded"
                   }
                 ]
@@ -7691,7 +7407,7 @@
                 "widgets": [
                   {
                     "key": "kooe1",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -7707,8 +7423,7 @@
                 "widgets": [
                   {
                     "key": "xoc4fe",
-                    "type": "WIDGET",
-                    "name": "General2v4",
+                    "name": "WidgetsGeneral-2v4",
                     "wrapper": "card-body text-white bg-danger rounded"
                   }
                 ]
@@ -7719,7 +7434,7 @@
                 "widgets": [
                   {
                     "key": "7kyjx5",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -7735,8 +7450,7 @@
                 "widgets": [
                   {
                     "key": "humzns",
-                    "type": "WIDGET",
-                    "name": "General3"
+                    "name": "WidgetsGeneral-3"
                   }
                 ]
               },
@@ -7746,7 +7460,7 @@
                 "widgets": [
                   {
                     "key": "2474tb",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -7762,8 +7476,7 @@
                 "widgets": [
                   {
                     "key": "tcnfpti",
-                    "type": "WIDGET",
-                    "name": "General3v1",
+                    "name": "WidgetsGeneral-3v1",
                     "wrapper": "card-body text-white bg-primary rounded"
                   }
                 ]
@@ -7774,7 +7487,7 @@
                 "widgets": [
                   {
                     "key": "gk5au",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -7790,8 +7503,7 @@
                 "widgets": [
                   {
                     "key": "unx95j",
-                    "type": "WIDGET",
-                    "name": "General4"
+                    "name": "WidgetsGeneral-4"
                   }
                 ]
               },
@@ -7801,7 +7513,7 @@
                 "widgets": [
                   {
                     "key": "56unin",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -7817,8 +7529,7 @@
                 "widgets": [
                   {
                     "key": "j029s",
-                    "type": "WIDGET",
-                    "name": "General5"
+                    "name": "WidgetsGeneral-5"
                   }
                 ]
               },
@@ -7828,7 +7539,7 @@
                 "widgets": [
                   {
                     "key": "3jqub",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -7844,8 +7555,7 @@
                 "widgets": [
                   {
                     "key": "nzsvd",
-                    "type": "WIDGET",
-                    "name": "General6",
+                    "name": "WidgetsGeneral-6",
                     "wrapper": false
                   }
                 ]
@@ -7856,7 +7566,7 @@
                 "widgets": [
                   {
                     "key": "muzp8",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -7872,8 +7582,7 @@
                 "widgets": [
                   {
                     "key": "oxxf7f",
-                    "type": "WIDGET",
-                    "name": "General6v1",
+                    "name": "WidgetsGeneral-6v1",
                     "wrapper": false
                   }
                 ]
@@ -7884,7 +7593,7 @@
                 "widgets": [
                   {
                     "key": "lolhee",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -7900,8 +7609,7 @@
                 "widgets": [
                   {
                     "key": "sk6fdb",
-                    "type": "WIDGET",
-                    "name": "General7"
+                    "name": "WidgetsGeneral-7"
                   }
                 ]
               },
@@ -7911,7 +7619,7 @@
                 "widgets": [
                   {
                     "key": "nhjoxr",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -7927,8 +7635,7 @@
                 "widgets": [
                   {
                     "key": "tritl",
-                    "type": "WIDGET",
-                    "name": "General8"
+                    "name": "WidgetsGeneral-8"
                   }
                 ]
               }
@@ -7949,7 +7656,7 @@
                 "widgets": [
                   {
                     "key": "nru8gq",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -7965,8 +7672,7 @@
                 "widgets": [
                   {
                     "key": "5q0hyk",
-                    "type": "WIDGET",
-                    "name": "General16",
+                    "name": "WidgetsGeneral-16",
                     "wrapper": false
                   }
                 ]
@@ -7977,7 +7683,7 @@
                 "widgets": [
                   {
                     "key": "y7hvzb",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -7993,8 +7699,7 @@
                 "widgets": [
                   {
                     "key": "nu9p6",
-                    "type": "WIDGET",
-                    "name": "General26"
+                    "name": "WidgetsGeneral-26"
                   }
                 ]
               }
@@ -8010,7 +7715,7 @@
                 "widgets": [
                   {
                     "key": "xepyn",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -8026,8 +7731,7 @@
                 "widgets": [
                   {
                     "key": "9j712b",
-                    "type": "WIDGET",
-                    "name": "General15"
+                    "name": "WidgetsGeneral-15"
                   }
                 ]
               }
@@ -8048,7 +7752,7 @@
                 "widgets": [
                   {
                     "key": "qufb",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -8064,8 +7768,7 @@
                 "widgets": [
                   {
                     "key": "a9vy3r",
-                    "type": "WIDGET",
-                    "name": "General17"
+                    "name": "WidgetsGeneral-17"
                   }
                 ]
               }
@@ -8081,7 +7784,7 @@
                 "widgets": [
                   {
                     "key": "1pa92x",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -8097,8 +7800,7 @@
                 "widgets": [
                   {
                     "key": "upej3",
-                    "type": "WIDGET",
-                    "name": "General17v1"
+                    "name": "WidgetsGeneral-17v1"
                   }
                 ]
               }
@@ -8114,7 +7816,7 @@
                 "widgets": [
                   {
                     "key": "adttk9",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -8130,8 +7832,7 @@
                 "widgets": [
                   {
                     "key": "3n9wd",
-                    "type": "WIDGET",
-                    "name": "General17v2"
+                    "name": "WidgetsGeneral-17v2"
                   }
                 ]
               }
@@ -8152,7 +7853,7 @@
                 "widgets": [
                   {
                     "key": "qu3k2r",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -8168,8 +7869,7 @@
                 "widgets": [
                   {
                     "key": "lw24mg",
-                    "type": "WIDGET",
-                    "name": "General18"
+                    "name": "WidgetsGeneral-18"
                   }
                 ]
               }
@@ -8185,7 +7885,7 @@
                 "widgets": [
                   {
                     "key": "p7rb4s",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -8201,8 +7901,7 @@
                 "widgets": [
                   {
                     "key": "zj6z8",
-                    "type": "WIDGET",
-                    "name": "General18v1"
+                    "name": "WidgetsGeneral-18v1"
                   }
                 ]
               }
@@ -8223,7 +7922,7 @@
                 "widgets": [
                   {
                     "key": "fqf2o",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -8239,8 +7938,7 @@
                 "widgets": [
                   {
                     "key": "x5aq5",
-                    "type": "WIDGET",
-                    "name": "General19"
+                    "name": "WidgetsGeneral-19"
                   }
                 ]
               }
@@ -8256,7 +7954,7 @@
                 "widgets": [
                   {
                     "key": "bgg2f",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -8272,8 +7970,7 @@
                 "widgets": [
                   {
                     "key": "xnnl4",
-                    "type": "WIDGET",
-                    "name": "General20",
+                    "name": "WidgetsGeneral-20",
                     "wrapper": false
                   }
                 ]
@@ -8284,7 +7981,7 @@
                 "widgets": [
                   {
                     "key": "8o4tr7",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -8300,8 +7997,7 @@
                 "widgets": [
                   {
                     "key": "tamo4x",
-                    "type": "WIDGET",
-                    "name": "General21",
+                    "name": "WidgetsGeneral-21",
                     "wrapper": "card-body bg-success text-white rounded"
                   }
                 ]
@@ -8312,7 +8008,7 @@
                 "widgets": [
                   {
                     "key": "z870ai",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -8328,8 +8024,7 @@
                 "widgets": [
                   {
                     "key": "vhvdh",
-                    "type": "WIDGET",
-                    "name": "General21v2",
+                    "name": "WidgetsGeneral-21v2",
                     "wrapper": "card-body bg-light rounded"
                   }
                 ]
@@ -8346,7 +8041,7 @@
                 "widgets": [
                   {
                     "key": "c40me2",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -8362,8 +8057,7 @@
                 "widgets": [
                   {
                     "key": "ypekui",
-                    "type": "WIDGET",
-                    "name": "General20v1",
+                    "name": "WidgetsGeneral-20v1",
                     "wrapper": false
                   }
                 ]
@@ -8374,7 +8068,7 @@
                 "widgets": [
                   {
                     "key": "rkidkd",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -8390,8 +8084,7 @@
                 "widgets": [
                   {
                     "key": "aq52",
-                    "type": "WIDGET",
-                    "name": "General21v1",
+                    "name": "WidgetsGeneral-21v1",
                     "wrapper": "card-body bg-primary text-white rounded"
                   }
                 ]
@@ -8402,7 +8095,7 @@
                 "widgets": [
                   {
                     "key": "1bvvi",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -8418,8 +8111,7 @@
                 "widgets": [
                   {
                     "key": "65io7m",
-                    "type": "WIDGET",
-                    "name": "General21v3",
+                    "name": "WidgetsGeneral-21v3",
                     "wrapper": "card-body bg-danger text-white rounded"
                   }
                 ]
@@ -8441,7 +8133,7 @@
                 "widgets": [
                   {
                     "key": "nb89zq",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -8457,8 +8149,7 @@
                 "widgets": [
                   {
                     "key": "6vqcns",
-                    "type": "WIDGET",
-                    "name": "General22"
+                    "name": "WidgetsGeneral-22"
                   }
                 ]
               }
@@ -8479,7 +8170,7 @@
                 "widgets": [
                   {
                     "key": "uag2p",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -8495,8 +8186,7 @@
                 "widgets": [
                   {
                     "key": "g6ace",
-                    "type": "WIDGET",
-                    "name": "General23"
+                    "name": "WidgetsGeneral-23"
                   }
                 ]
               }
@@ -8512,7 +8202,7 @@
                 "widgets": [
                   {
                     "key": "gq1gkp",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -8528,8 +8218,7 @@
                 "widgets": [
                   {
                     "key": "yajwt7",
-                    "type": "WIDGET",
-                    "name": "General23v1"
+                    "name": "WidgetsGeneral-23v1"
                   }
                 ]
               }
@@ -8545,7 +8234,7 @@
                 "widgets": [
                   {
                     "key": "1cg30l",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -8561,8 +8250,7 @@
                 "widgets": [
                   {
                     "key": "e0r5h",
-                    "type": "WIDGET",
-                    "name": "General24",
+                    "name": "WidgetsGeneral-24",
                     "wrapper": "card-body bg-primary text-white rounded"
                   }
                 ]
@@ -8573,7 +8261,7 @@
                 "widgets": [
                   {
                     "key": "vzx2ho",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -8589,8 +8277,7 @@
                 "widgets": [
                   {
                     "key": "b397xe",
-                    "type": "WIDGET",
-                    "name": "General24v1",
+                    "name": "WidgetsGeneral-24v1",
                     "wrapper": "card-body bg-light text-dark rounded"
                   }
                 ]
@@ -8612,7 +8299,7 @@
                 "widgets": [
                   {
                     "key": "antusp",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -8628,8 +8315,7 @@
                 "widgets": [
                   {
                     "key": "f0vnoh",
-                    "type": "WIDGET",
-                    "name": "General25"
+                    "name": "WidgetsGeneral-25"
                   }
                 ]
               }
@@ -8645,7 +8331,7 @@
                 "widgets": [
                   {
                     "key": "20o8t",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -8661,8 +8347,7 @@
                 "widgets": [
                   {
                     "key": "l2f6ro",
-                    "type": "WIDGET",
-                    "name": "General25v1"
+                    "name": "WidgetsGeneral-25v1"
                   }
                 ]
               }
@@ -8685,7 +8370,7 @@
                 "widgets": [
                   {
                     "key": "azes2o",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -8701,8 +8386,7 @@
                 "widgets": [
                   {
                     "key": "5ntlr",
-                    "type": "WIDGET",
-                    "name": "Table1"
+                    "name": "WidgetsTables-1"
                   }
                 ]
               },
@@ -8712,7 +8396,7 @@
                 "widgets": [
                   {
                     "key": "a9zmsv",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -8728,8 +8412,7 @@
                 "widgets": [
                   {
                     "key": "n991e8",
-                    "type": "WIDGET",
-                    "name": "Table2"
+                    "name": "WidgetsTables-2"
                   }
                 ]
               },
@@ -8739,7 +8422,7 @@
                 "widgets": [
                   {
                     "key": "m5h22",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -8755,8 +8438,7 @@
                 "widgets": [
                   {
                     "key": "ajyvwl",
-                    "type": "WIDGET",
-                    "name": "Table2"
+                    "name": "WidgetsTables-2"
                   }
                 ]
               }
@@ -8772,7 +8454,7 @@
                 "widgets": [
                   {
                     "key": "m30939",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -8788,8 +8470,7 @@
                 "widgets": [
                   {
                     "key": "fay1b9",
-                    "type": "WIDGET",
-                    "name": "Table4"
+                    "name": "WidgetsTables-4"
                   }
                 ]
               },
@@ -8799,7 +8480,7 @@
                 "widgets": [
                   {
                     "key": "rjcvou",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -8815,8 +8496,7 @@
                 "widgets": [
                   {
                     "key": "xmmkar",
-                    "type": "WIDGET",
-                    "name": "Table5"
+                    "name": "WidgetsTables-5"
                   }
                 ]
               },
@@ -8826,7 +8506,7 @@
                 "widgets": [
                   {
                     "key": "tigzpd",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -8842,8 +8522,7 @@
                 "widgets": [
                   {
                     "key": "4zj03s",
-                    "type": "WIDGET",
-                    "name": "Table6"
+                    "name": "WidgetsTables-6"
                   }
                 ]
               }
@@ -8864,7 +8543,7 @@
                 "widgets": [
                   {
                     "key": "g2wbwm",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -8880,8 +8559,7 @@
                 "widgets": [
                   {
                     "key": "qg7muh",
-                    "type": "WIDGET",
-                    "name": "Table7"
+                    "name": "WidgetsTables-7"
                   }
                 ]
               },
@@ -8891,7 +8569,7 @@
                 "widgets": [
                   {
                     "key": "z4yyz",
-                    "name": "Tag",
+                    "name": "Headers-Tag",
                     "editable": true,
                     "dataType": "object",
                     "wrapper": false,
@@ -8907,8 +8585,7 @@
                 "widgets": [
                   {
                     "key": "umcjve",
-                    "type": "WIDGET",
-                    "name": "Table8"
+                    "name": "WidgetsTables-8"
                   }
                 ]
               }

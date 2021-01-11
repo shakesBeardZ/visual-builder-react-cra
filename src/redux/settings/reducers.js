@@ -50,6 +50,7 @@ const initialState = {
     layoutFooter: 'v1', // v1, v2, v3, v4
     flyoutMenuType: 'flyout', // flyout, default, compact
     flyoutMenuColor: 'blue', // dark, blue, gray, white
+
     // VB:REPLACE-END:SETTINGS
   }),
 }

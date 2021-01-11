@@ -1,6 +1,6 @@
 const { REPLACE_NEXT_LINE, REPLACE_BETWEEN } = require('../utils/io')
 
-const routerFile = '__temp/router.js'
+const routerFile = 'src/router.js'
 
 const routeTpl = (route) => `{
   path: '${route.url}',
@@ -14,7 +14,7 @@ module.exports = (config) => {
   const convert = (data) => {
     let temp = ``
     data.forEach((item) => {
-      if (item.category) {
+      if (item.category || item.url === '/auth') {
         return
       }
       if (!redirectTo) {
@@ -22,7 +22,7 @@ module.exports = (config) => {
       }
       temp = temp + routeTpl(item)
       if (item.children) {
-        convert(item.children)
+        temp = temp + convert(item.children)
       }
     })
     return temp
