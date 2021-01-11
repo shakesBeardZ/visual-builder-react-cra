@@ -18,7 +18,7 @@ module.exports = (config) => {
         return
       }
       if (!redirectTo) {
-        redirectTo = item.url
+        redirectTo = process.env.REDIRECT_URL || item.url
       }
       temp = temp + routeTpl(item)
       if (item.children) {
