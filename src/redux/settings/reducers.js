@@ -12,6 +12,8 @@ const STORED_SETTINGS = (storedSettings) => {
 
 const initialState = {
   ...STORED_SETTINGS({
+    // Read docs for available values: https://docs.visualbuilder.cloud
+    // VB:REPLACE-START:SETTINGS
     authProvider: 'jwt', // firebase, jwt
     logo: 'Visual Builder',
     version: 'fluent', // fluent, clean, air
@@ -48,6 +50,8 @@ const initialState = {
     layoutFooter: 'v1', // v1, v2, v3, v4
     flyoutMenuType: 'flyout', // flyout, default, compact
     flyoutMenuColor: 'blue', // dark, blue, gray, white
+
+    // VB:REPLACE-END:SETTINGS
   }),
 }
 

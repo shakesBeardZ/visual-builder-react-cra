@@ -7,7 +7,14 @@ import { connect } from 'react-redux'
 import Layout from 'layouts'
 
 const routes = [
-  // VB:REPLACE:LINE:ROUTER-CONFIG
+  // VB:REPLACE-START:ROUTER-CONFIG
+  {
+    path: '/dashboard',
+    Component: lazy(() => import('pages/dashboard')),
+    exact: true,
+  },
+
+  // VB:REPLACE-END:ROUTER-CONFIG
   {
     path: '/auth/login',
     Component: lazy(() => import('pages/auth/login')),
@@ -60,8 +67,8 @@ const Router = ({ history, routerAnimation }) => {
                   timeout={routerAnimation === 'none' ? 0 : 300}
                 >
                   <Switch location={location}>
-                    {/* VB:REPLACE:NEXTLINE:ROUTER-REDIRECT */}
-                    <Route exact path="/" render={() => <Redirect to="/" />} />
+                    {/* VB:REPLACE-NEXT-LINE:ROUTER-REDIRECT */}
+                    <Route exact path="/" render={() => <Redirect to="/dashboard" />} />
                     {routes.map(({ path, Component, exact }) => (
                       <Route
                         path={path}
