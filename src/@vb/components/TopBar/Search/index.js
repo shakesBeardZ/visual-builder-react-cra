@@ -50,7 +50,7 @@ const Search = ({ intl: { formatMessage } }) => {
   return (
     <div className="d-inline-block mr-4">
       <Input
-        className={style.extInput}
+        className={`${style.extInput} t-8`}
         placeholder={formatMessage({ id: 'topBar.typeToSearch' })}
         prefix={<SearchOutlined style={{ color: 'rgba(0,0,0,.25)' }} />}
         style={{ width: 200 }}

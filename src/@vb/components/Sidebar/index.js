@@ -783,7 +783,7 @@ const Sidebar = ({
             href="https://visualbuilder.cloud"
             target="_blank"
             rel="noopener noreferrer"
-            className="tour-1 vb__utils__sidebar__button"
+            className="tour-1 vb__utils__sidebar__button t-1"
           >
             <svg
               xmlns="http://www.w3.org/2000/svg"
@@ -821,7 +821,7 @@ const Sidebar = ({
             tabIndex="0"
             onKeyPress={toggleSettings}
             onClick={toggleSettings}
-            className="tour-1 vb__utils__sidebar__button"
+            className="tour-1 vb__utils__sidebar__button t-2"
           >
             <i className="fe fe-settings" />
           </a>
@@ -832,7 +832,7 @@ const Sidebar = ({
             tabIndex="0"
             onKeyPress={togglePreselectedThemes}
             onClick={togglePreselectedThemes}
-            className="tour-2 vb__utils__sidebar__button"
+            className="tour-2 vb__utils__sidebar__button t-3"
           >
             <i className="fe fe-image" />
           </a>
@@ -843,7 +843,7 @@ const Sidebar = ({
             tabIndex="0"
             onKeyPress={() => changeSetting('theme', theme === 'default' ? 'dark' : 'default')}
             onClick={() => changeSetting('theme', theme === 'default' ? 'dark' : 'default')}
-            className="vb__utils__sidebar__button"
+            className="vb__utils__sidebar__button t-4"
           >
             {theme === 'default' && <i className="fe fe-moon" />}
             {theme !== 'default' && <i className="fe fe-sun" />}
@@ -851,9 +851,12 @@ const Sidebar = ({
         </Tooltip>
         <Tooltip title="Set Primary Color" placement="left">
           <a
-            className={classNames(`vb__utils__sidebar__button vb__utils__sidebar__button__color`, {
-              vb__utils__sidebar__button__color__reset: primaryColor === defaultColor,
-            })}
+            className={classNames(
+              `vb__utils__sidebar__button vb__utils__sidebar__button__color t-5`,
+              {
+                vb__utils__sidebar__button__color__reset: primaryColor === defaultColor,
+              },
+            )}
           >
             <button type="button" tabIndex="0" onKeyPress={resetColor} onClick={resetColor}>
               <i className="fe fe-x-circle" />
@@ -872,7 +875,7 @@ const Sidebar = ({
             href="https://docs.visualbuilder.cloud"
             target="_blank"
             rel="noopener noreferrer"
-            className="vb__utils__sidebar__button"
+            className="vb__utils__sidebar__button t-6"
           >
             <i className="fe fe-book-open" />
           </a>
