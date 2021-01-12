@@ -1,13 +1,7 @@
 import React from 'react'
 import { Tabs } from 'antd'
 
-const HeaderTabbed = ({
-  data = {
-    // default values
-    title: 'With icon',
-    icon: 'fe fe-activity',
-  },
-}) => {
+const HeaderTabbed = ({ data }) => {
   return (
     <div className="card-header-flex">
       <div className="d-flex flex-row align-items-center mr-auto">
@@ -47,6 +41,13 @@ const HeaderTabbed = ({
       </Tabs>
     </div>
   )
+}
+
+HeaderTabbed.defaultProps = {
+  data: {
+    title: 'With icon',
+    icon: 'fe fe-activity',
+  },
 }
 
 export default HeaderTabbed

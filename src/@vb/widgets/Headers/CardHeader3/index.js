@@ -1,12 +1,7 @@
 import React from 'react'
 import { Tooltip } from 'antd'
 
-const Header = ({
-  data = {
-    // default values
-    title: 'With actions',
-  },
-}) => {
+const Header = ({ data }) => {
   return (
     <div className="card-header-flex align-items-center">
       <div className="d-flex flex-column justify-content-center mr-auto">
@@ -33,6 +28,12 @@ const Header = ({
       </div>
     </div>
   )
+}
+
+Header.defaultProps = {
+  data: {
+    title: 'With actions',
+  },
 }
 
 export default Header

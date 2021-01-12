@@ -19,12 +19,7 @@ const dropdownMenu = (
   </Menu>
 )
 
-const Header = ({
-  data = {
-    // default values
-    title: 'Borderless',
-  },
-}) => {
+const Header = ({ data }) => {
   return (
     <div className="card-header-flex">
       <div className="d-flex flex-column justify-content-center mr-auto">
@@ -41,6 +36,12 @@ const Header = ({
       </div>
     </div>
   )
+}
+
+Header.defaultProps = {
+  data: {
+    title: 'Borderless',
+  },
 }
 
 export default Header

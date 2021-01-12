@@ -1,13 +1,6 @@
 import React from 'react'
 
-const Heading = ({
-  data = {
-    // default values
-    title: 'Header with button',
-    button: 'View All',
-    url: '/',
-  },
-}) => {
+const Heading = ({ data }) => {
   return (
     <div className="vb__utils__heading">
       <strong className="mr-3">{data.title}</strong>
@@ -16,6 +9,14 @@ const Heading = ({
       </a>
     </div>
   )
+}
+
+Heading.defaultProps = {
+  data: {
+    title: 'Header with button',
+    button: 'View All',
+    url: '/',
+  },
 }
 
 export default Heading

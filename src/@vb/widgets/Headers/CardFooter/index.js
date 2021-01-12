@@ -1,14 +1,6 @@
 import React from 'react'
 
-const Footer = ({
-  data = {
-    // default values
-    mainTitle: 'Unlock Account',
-    mainIcon: 'fe fe-lock',
-    mainType: 'btn-success',
-    additionalTitle: 'Cancel',
-  },
-}) => {
+const Footer = ({ data }) => {
   return (
     <div>
       <a className={`${data.mainType} btn mr-2`}>
@@ -18,6 +10,15 @@ const Footer = ({
       <a className="btn btn-link">{data.additionalTitle}</a>
     </div>
   )
+}
+
+Footer.defaultProps = {
+  data: {
+    mainTitle: 'Unlock Account',
+    mainIcon: 'fe fe-lock',
+    mainType: 'btn-success',
+    additionalTitle: 'Cancel',
+  },
 }
 
 export default Footer

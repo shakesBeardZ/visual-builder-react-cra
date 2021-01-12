@@ -73,6 +73,7 @@ const Search = ({ intl: { formatMessage } }) => {
               value={searchText}
               onChange={changeSearchText}
               id="livesearchInput"
+              autoComplete="off"
               placeholder={formatMessage({ id: 'topBar.typeToSearch' })}
               ref={handleNode}
             />
