@@ -24,7 +24,7 @@ cliSelect({
       generate(resolvedSeedFile)
     }
     if (response.id === 1) {
-      const resolvedFullFile = path.resolve(__dirname, 'config-full-preview.json')
+      const resolvedFullFile = path.resolve(__dirname, 'config-full.json')
       logg('Generating full preview version...', 'green')
       logg('Config: ' + resolvedFullFile, 'green')
       generate(resolvedFullFile)

@@ -2,8 +2,8 @@ import React, { useState, useEffect, useRef } from 'react'
 import { Modal, Button, Popconfirm, message, Radio } from 'antd'
 import { connect } from 'react-redux'
 import Draggable from 'react-draggable'
-import fullPreviewConfig from '@scripts/config-full-preview.json'
-import seedConfig from '@scripts/config-seed.json'
+import configFull from '@scripts/config-full.json'
+import configSeed from '@scripts/config-seed.json'
 import themes from './configs.json'
 import style from './style.module.scss'
 
@@ -223,7 +223,7 @@ const Variants = ({ dispatch, isPreselectedOpen, preselectedVariant, version, th
                 with the full preview values.
               </div>
             }
-            onConfirm={() => importDemoContent(fullPreviewConfig)}
+            onConfirm={() => importDemoContent(configFull)}
             okText="Yes"
             cancelText="No"
           >
@@ -241,7 +241,7 @@ const Variants = ({ dispatch, isPreselectedOpen, preselectedVariant, version, th
                 to the default values.
               </div>
             }
-            onConfirm={() => importDemoContent(seedConfig)}
+            onConfirm={() => importDemoContent(configSeed)}
             okText="Yes"
             cancelText="No"
           >

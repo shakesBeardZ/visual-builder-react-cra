@@ -1,13 +1,6 @@
 import React from 'react'
 
-const Header = ({
-  data = {
-    // default values
-    title: 'Basic page header',
-    icon: 'fe fe-phone-call',
-    description: 'Some description here...',
-  },
-}) => {
+const Header = ({ data }) => {
   return (
     <div className="card-header-flex">
       <div className="d-flex flex-column justify-content-center mr-auto">
@@ -21,6 +14,14 @@ const Header = ({
       </div>
     </div>
   )
+}
+
+Header.defaultProps = {
+  data: {
+    title: 'Basic page header',
+    icon: 'fe fe-phone-call',
+    description: 'Some description here...',
+  },
 }
 
 export default Header

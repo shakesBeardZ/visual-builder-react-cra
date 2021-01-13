@@ -12,8 +12,10 @@
     "stylelint": "stylelint \"src/**/*.{scss,less}\"",
     "deploy": "cd .cloudflare/ && wrangler publish",
     "build-demo": "REACT_APP_AUTHENTICATED=true react-app-rewired build",
-    "build-deploy": "yarn build-demo && yarn deploy",
-    "vb": "node ./scripts/vb.js"
+    "build-deploy": "yarn vb-full && yarn build-demo && yarn deploy && yarn vb-seed",
+    "vb": "node ./scripts/vb.js",
+    "vb-full": "REDIRECT_URL=/dashboard/alpha node ./scripts/generate.js --config=config-full.json",
+    "vb-seed": "node ./scripts/generate.js --config=config-seed.json"
   },
   "husky": {
     "hooks": {

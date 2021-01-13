@@ -19,12 +19,7 @@ const dropdownMenu = (
   </Menu>
 )
 
-const HeaderTabbed = ({
-  data = {
-    // default values
-    title: 'With dropdown',
-  },
-}) => {
+const HeaderTabbed = ({ data }) => {
   return (
     <div className="card-header-flex">
       <div className="d-flex flex-column justify-content-center mr-auto">
@@ -41,6 +36,12 @@ const HeaderTabbed = ({
       </div>
     </div>
   )
+}
+
+HeaderTabbed.defaultProps = {
+  data: {
+    title: 'With dropdown',
+  },
 }
 
 export default HeaderTabbed

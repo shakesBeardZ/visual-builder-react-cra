@@ -17,7 +17,8 @@ module.exports = (settings) => {
   let code = ``
   Object.keys(settingsUpdated).forEach((key) => {
     const v = settingsUpdated[key]
-    code = code + `${key}: ${typeof v === 'boolean' ? v : `'${v}'`},\n`
+    const b = (typeof v === 'boolean' || typeof v === 'number') ? v : `'${v}'`
+    code = code + `${key}: ${b},\n`
   })
 
   // replace settings

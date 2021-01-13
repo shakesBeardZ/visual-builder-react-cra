@@ -14,10 +14,10 @@ const initialState = {
   ...STORED_SETTINGS({
     // Read docs for available values: https://docs.visualbuilder.cloud
     // VB:REPLACE-START:SETTINGS
-    authProvider: 'jwt', // firebase, jwt
+    authProvider: 'jwt',
     logo: 'Visual Builder',
-    version: 'fluent', // fluent, clean, air
-    theme: 'default', // default, dark
+    version: 'fluent',
+    theme: 'default',
     locale: 'en-US',
     isSidebarOpen: false,
     isSupportChatOpen: false,
@@ -26,10 +26,10 @@ const initialState = {
     isMenuCollapsed: false,
     isPreselectedOpen: false,
     preselectedVariant: 'default',
-    menuLayoutType: 'left', // left, top
-    routerAnimation: 'slide-fadein-up', // none, slide-fadein-up, slide-fadein-right, fadein, zoom-fadein
-    menuColor: 'gray', // white, dark, gray
-    authPagesColor: 'gray', // white, gray, image
+    menuLayoutType: 'left',
+    routerAnimation: 'slide-fadein-up',
+    menuColor: 'gray',
+    authPagesColor: 'gray',
     isAuthTopbar: true,
     primaryColor: '#4b7cf3',
     leftMenuWidth: 256,
@@ -44,12 +44,12 @@ const initialState = {
     isCardShadow: true,
     isSquaredBorders: false,
     isBorderless: false,
-    layoutMenu: 'classic', // classic, flyout, simply
-    layoutTopbar: 'v1', // v1
-    layoutBreadcrumbs: 'v1', // v1, v2
-    layoutFooter: 'v1', // v1, v2, v3, v4
-    flyoutMenuType: 'flyout', // flyout, default, compact
-    flyoutMenuColor: 'blue', // dark, blue, gray, white
+    layoutMenu: 'classic',
+    layoutTopbar: 'v1',
+    layoutBreadcrumbs: 'v1',
+    layoutFooter: 'v1',
+    flyoutMenuType: 'flyout',
+    flyoutMenuColor: 'blue',
 
     // VB:REPLACE-END:SETTINGS
   }),

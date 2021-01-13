@@ -1,12 +1,13 @@
 import React from 'react'
 
-const Heading = ({
-  data = {
-    // default values
-    title: 'Tag',
-  },
-}) => {
+const Tag = ({ data }) => {
   return <div className="badge badge-example">{data.title}</div>
 }
 
-export default Heading
+Tag.defaultProps = {
+  data: {
+    title: 'Tag',
+  },
+}
+
+export default Tag

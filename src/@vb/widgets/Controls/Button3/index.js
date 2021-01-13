@@ -1,14 +1,7 @@
 import React from 'react'
 import { Button } from 'antd'
 
-const ButtonComponent = ({
-  data = {
-    // default values
-    mainTitle: 'Update',
-    mainType: 'primary',
-    additionalTitle: 'Cancel',
-  },
-}) => {
+const ButtonComponent = ({ data }) => {
   return (
     <div>
       <Button type={data.mainType} className="mr-4">
@@ -19,6 +12,14 @@ const ButtonComponent = ({
       </a>
     </div>
   )
+}
+
+ButtonComponent.defaultProps = {
+  data: {
+    mainTitle: 'Update',
+    mainType: 'primary',
+    additionalTitle: 'Cancel',
+  },
 }
 
 export default ButtonComponent

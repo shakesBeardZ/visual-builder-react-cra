@@ -17,6 +17,7 @@ import Footer4 from '@vb/components/Footer4'
 import Sidebar from '@vb/components/Sidebar'
 import SupportChat from '@vb/components/SupportChat'
 import Variants from '@vb/components/Variants'
+import Tutorial from '@vb/components/Tutorial'
 
 const mapStateToProps = ({ settings }) => ({
   isMobileMenuOpen: settings.isMobileMenuOpen,
@@ -122,6 +123,7 @@ const MainLayout = ({
           vb__layout__borderless: isBorderless,
         })}
       >
+        <Tutorial />
         <Variants />
         <Sidebar />
         <SupportChat />
