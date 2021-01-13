@@ -3,7 +3,7 @@ const fs = require('fs')
 const prettier = require('prettier')
 const prettierConfig = require('./prettier.config')
 
-const getResolvedPath = (filepath) => path.resolve(filepath)
+const getResolvedPath = (filepath) => path.resolve(__dirname, `../../${filepath}`)
 const getIsExist = (filepath) => fs.existsSync(filepath)
 const getFile = (filepath) => fs.readFileSync(filepath, 'utf8')
 const getLinesArray = (file) => JSON.parse(JSON.stringify(file.split('\n')))
@@ -87,8 +87,9 @@ exports.GET_BETWEEN_JSON = (filepath, after, before) => {
 }
 
 exports.GET_DIR_FOLDERS = (folderpath) => {
+  const resolvedFolderPath = getResolvedPath(folderpath)
   return fs
-    .readdirSync(folderpath, { withFileTypes: true })
+    .readdirSync(resolvedFolderPath, { withFileTypes: true })
     .filter((dirent) => dirent.isDirectory())
     .map((dirent) => dirent.name)
 }
