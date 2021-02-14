@@ -69,3 +69,15 @@
     }
   }
 }
+
+// dark theme
+[data-vb-theme='dark'] {
+  .listItem {
+    background: $dark-gray-4;
+
+    &:hover {
+      background: $primary;
+      color: $white;
+    }
+  }
+}
