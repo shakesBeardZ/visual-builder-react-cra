@@ -45,7 +45,10 @@ module.exports = override(
   addLessLoader({
     lessOptions: {
       javascriptEnabled: true,
-    }
+      modifyVars: {
+        'root-entry-name': 'default'
+      }
+    },
   }),
   useEslintConfig(eslintConfig),
   removeModuleScopePlugin(),
